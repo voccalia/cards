@@ -1,2 +1,2 @@
 # chinese-cards
-Tarjetas de caracteres chinos y sus radicales
+Tarjetas de caracteres chinos, sus radicales y tipografías comunes.
