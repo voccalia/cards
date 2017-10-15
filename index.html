@@ -4,49 +4,42 @@
         <meta charset="UTF-8">
         <title>Chinese Cards</title>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <style>
-        body { 
-            background: gray;
-            box-sizing: border-box;
-            font-family: sans-serif;
-        }
-        h1 { text-align: center; }
-        .ccards {
-            width: 1140px;
-            margin: 0 auto;
-            text-align: center;
-        }
-            @media (max-width: 600px) {
-                .ccards {
-                    width: 100%;
-                    text-align: center;
-                }
-            }        
-        .ccard { 
-            border-radius: 15px; 
-            background: white; 
-            width: 250px; 
-            height: 300px;
-            text-align: center;
-            box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
-            padding-top: 70px;
-            box-sizing: border-box;
-            display: inline-block;
-            margin-bottom: 5px;
-            background: black;
-            color: white;
-        }
-        .ccard h2 { 
-            font-size: 64px; 
-            margin: 0; 
-            font-family: serif;
-            font-weight: 600;
-        }
-        </style>
+        <link rel="stylesheet" href="styles.css" type="text/css" />
+    <script>
+
+// --------------------------------------------------------------
+// TOGGLE (Hide / Show element)
+// --------------------------------------------------------------
+// This solution is temporal
+
+var ccards = document.querySelectorAll(".ccard");
+
+for (var i = 0; i < ccards.length; i++) {
+
+    ccards[i].addEventListener("click", function (event) {
+        this.classList.toggle("flipped");
+  });
+}
+
+    </script>
     </head>
     <body>
         <h1>Chinese Cards</h1>
         <hr>
+
+        <section class="container">
+        <div id="card" class="ccard">
+            <figure class="front">
+                <h2>你</h2>
+                <h3>nǐ</h3>
+            </figure>
+            <figure class="back">
+                <p>Tú</p>
+            </figure>
+        </div>
+        </section>
+
+
         <div class="ccards">
             <section class="ccard">
                 <h2>你</h2>
