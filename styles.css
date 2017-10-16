@@ -3,7 +3,12 @@ body {
     box-sizing: border-box;
     font-family: sans-serif;
 }
-h1 { text-align: center; }
+
+h1 { 
+    text-align: center;
+    color: white; 
+}
+
 .ccards {
     width: 1140px;
     margin: 0 auto;
@@ -38,41 +43,68 @@ h1 { text-align: center; }
 
 /* Flipcard based on https://desandro.github.io/3dtransforms/docs/card-flip.html */
 
-.container { 
-    width: 200px;
-    height: 260px;
+.card { 
+    width: 250px;
+    height: 300px;
     position: relative;
     perspective: 800px;
+    margin: 10px;
+    display: inline-block;
 }
 
-#card {
+.card-content {
   width: 100%;
   height: 100%;
   position: absolute;
   transform-style: preserve-3d;
   transition: transform 0.5s;
-  cursor: pointer;  
+  cursor: pointer; 
 }  
 
-#card figure {
+.card-content figure {
     margin: 0;
     display: block;
     position: absolute;
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
+    border-radius: 15px; 
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
   }
 
-  #card .front {
+  .card-content .front {
+    color: white;
     background: black;
   }
-  #card .back {
+    .card-content .front h2 {
+        font-size: 64px; 
+        font-family: serif;
+        margin: 0;
+        margin-top: 90px;
+    }
+
+  .card-content .back {
     background: white;
+    color: black;
     transform: rotateY( 180deg );
   }
 
-  #card.flipped {
-    cursor: pointer;
+    .card-content .back h2 {
+        font-size: 52px; 
+        font-family: serif;
+        margin: 0;
+        margin-top: 80px;
+    }
+
+    .card-content .back h3 {
+        font-size: 24px;
+        margin: 5px;
+    }
+
+    .card-content .back p {
+        margin: 0;      
+    }
+
+  .card-content.flipped {
     transform: rotateY( 180deg );
   }
-
