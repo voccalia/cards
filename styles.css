@@ -9,36 +9,8 @@ h1 {
     color: white; 
 }
 
-.ccards {
-    width: 1140px;
-    margin: 0 auto;
+.cards {
     text-align: center;
-}
-    @media (max-width: 600px) {
-        .ccards {
-            width: 100%;
-            text-align: center;
-        }
-    }        
-.ccard { 
-    border-radius: 15px; 
-    background: white; 
-    width: 250px; 
-    height: 300px;
-    text-align: center;
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
-    padding-top: 70px;
-    box-sizing: border-box;
-    display: inline-block;
-    margin-bottom: 5px;
-    background: black;
-    color: white;
-}
-.ccard h2 { 
-    font-size: 64px; 
-    margin: 0; 
-    font-family: serif;
-    font-weight: 600;
 }
 
 /* Flipcard based on https://desandro.github.io/3dtransforms/docs/card-flip.html */
@@ -49,6 +21,7 @@ h1 {
     position: relative;
     perspective: 800px;
     margin: 10px;
+    text-align: center;
     display: inline-block;
 }
 
@@ -86,9 +59,10 @@ h1 {
   }
     .card-content .front h2 {
         font-size: 64px; 
-        font-family: serif;
+        font-family: "WenQuanYi Micro Hei", "UKai", "STKaiTi", "KaiTi";
         margin: 0;
         margin-top: 90px;
+        font-weight: normal;
     }
 
   .card-content .back {
@@ -99,9 +73,10 @@ h1 {
 
     .card-content .back h2 {
         font-size: 52px; 
-        font-family: serif;
+        font-family: "WenQuanYi Micro Hei", "UKai", "STKaiTi", "KaiTi";
         margin: 0;
         margin-top: 80px;
+        font-weight: normal;        
     }
 
     .card-content .back h3 {
@@ -113,6 +88,6 @@ h1 {
         margin: 0;      
     }
 
-  .card-content.flipped {
+  .card-content.flip {
     transform: rotateY( 180deg );
   }
