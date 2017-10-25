@@ -9,6 +9,11 @@ h1 {
     color: white; 
 }
 
+.subtitle {
+    color: white;
+    text-align: center;
+}
+
 .cards {
     text-align: center;
 }
@@ -59,10 +64,11 @@ h1 {
   }
     .card-content .front h2 {
         font-size: 64px; 
-        font-family: "WenQuanYi Micro Hei", "UKai", "STKaiTi", "KaiTi";
+        font-family: serif;
         margin: 0;
         margin-top: 90px;
         font-weight: normal;
+        color: white;
     }
 
   .card-content .back {
@@ -73,10 +79,11 @@ h1 {
 
     .card-content .back h2 {
         font-size: 52px; 
-        font-family: "WenQuanYi Micro Hei", "UKai", "STKaiTi", "KaiTi";
+        font-family: serif;
         margin: 0;
         margin-top: 80px;
-        font-weight: normal;        
+        font-weight: normal;
+        color: black;        
     }
 
     .card-content .back h3 {
