@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hanzix - Chinese Cards</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="styles/styles.css" type="text/css" />
+    </head>
+<body>
+
+<h1>Chinese Cards</h1>
+<hr>
+<h2 class="subtitle">Caracteres simples</h2>
+
+<div id="app" class="cards">
+
+    <section v-for="card in cards" class="card">            
+        <div class="card-content" onclick="this.classList.toggle('flip');">
+            <figure class="front">
+                <h2 v-cloak>{{ card.character }}</h2>                        
+            </figure> 
+            <figure class="back">
+                <h2 v-cloak>{{ card.character }}</h2>
+                <h3 v-cloak>{{ card.pinyin }}</h3>
+                <p v-cloak>{{ card.meaning }}</p>
+            </figure>       
+        </div>
+    </section>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>        
+<script src="scripts/data.js"></script>
+
+</body>
+</html>

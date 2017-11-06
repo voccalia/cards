@@ -9,6 +9,7 @@ h1 {
     color: white; 
 }
 
+
 .subtitle {
     color: white;
     text-align: center;
@@ -98,3 +99,12 @@ h1 {
   .card-content.flip {
     transform: rotateY( 180deg );
   }
+
+
+/* Vue cloak https://vuejs.org/v2/api/#v-cloak 
+Se utiliza para esconder las etiquetas mientras no 
+se ha cargado el contenido */
+
+[v-cloak] {
+    display: none;
+}
