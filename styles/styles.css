@@ -102,7 +102,7 @@ h1 {
 
 
 /* Vue cloak https://vuejs.org/v2/api/#v-cloak 
-Se utiliza para esconder las etiquetas mientras no 
+Se utiliza para esconder las etiquetas mustache {{ }} mientras no 
 se ha cargado el contenido */
 
 [v-cloak] {
