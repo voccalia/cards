@@ -9,7 +9,8 @@ var cards = new Vue({
         { character: '月', pinyin: 'yuè', meaning: 'Luna / Mes' },
         { character: '山', pinyin: 'shān', meaning: 'Montaña' },
         { character: '女', pinyin: 'nŭ', meaning: 'Mujer' },
-        { character: '男', pinyin: 'nán', meaning: 'Hombre / Varón' }       
+        { character: '男', pinyin: 'nán', meaning: 'Hombre / Varón' },
+        { character: '水', pinyin: 'shuĭ', meaning: 'Agua' }               
       ]
     }
   })
