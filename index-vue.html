@@ -12,24 +12,25 @@
 <hr>
 <h2 class="subtitle">Caracteres simples</h2>
 
-<div id="app" class="cards">
-    <section v-for="card in cards" class="card">            
+<div id="characters" class="cards">
+    <section v-for="character in characters" class="card">            
         <div class="card-content" onclick="this.classList.toggle('flip');">
             <figure class="front">
-                <h2 v-cloak>{{ card.character }}</h2>                        
+                <h2 v-cloak>{{ character.character }}</h2>                        
             </figure> 
             <figure class="back">
-                <h2>{{ card.character }}</h2>
-                <h3>{{ card.pinyin }}</h3>
-                <p>{{ card.meaning }}</p>
+                <h2>{{ character.character }}</h2>
+                <h3>{{ character.pinyin }}</h3>
+                <p>{{ character.meaning }}</p>
             </figure>       
         </div>
     </section>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/vue"></script> 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.3.4/vue-resource.min.js"></script>       
-<script src="scripts/data.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.17.1/axios.min.js"></script>
+<script src="/scripts/app.js"></script>
 
 </body>
 </html>
