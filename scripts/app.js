@@ -1,4 +1,4 @@
-var dataCharacters = '/data/characters.json';
+var dataCharacters = 'data/characters.json';
 new Vue({
     el: '#characters',
     created: function() {
