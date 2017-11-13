@@ -26,11 +26,6 @@
   { "character": "那儿", "pinyin": "nàr", "meaning": "Allá", "type": "pronoun" },
   { "character": "那里", "pinyin": "nà lǐ", "meaning": "Allá", "type": "pronoun" },
 
-  
-  { "character": "哪", "pinyin": "nǎ", "meaning": "Cuál", "type": "auxiliar" },
-  { "character": "哪儿", "pinyin": "nǎr", "meaning": "Dónde", "type": "auxiliar" },
-  { "character": "哪里", "pinyin": "nǎ lǐ", "meaning": "Dónde", "type": "auxiliar" },
-
 
   { "character": "要", "pinyin": "yaò", "meaning": "Querer / Desear", "type": "verb" },
   { "character": "是", "pinyin": "shì", "meaning": "Ser", "type": "verb" },
@@ -40,23 +35,40 @@
   { "character": "喝", "pinyin": "hē", "meaning": "Beber", "type": "verb" },
   { "character": "说", "pinyin": "shuō", "meaning": "Hablar", "type": "verb" },
   { "character": "休", "pinyin": "xiū", "meaning": "Descansar", "type": "verb" },
-
+  { "character": "认识", "pinyin": "rènshi", "meaning": "Conocer (personas)", "type": "verb" },
+  { "character": "可以", "pinyin": "kĕyǐ", "meaning": "Poder (auxiliar)", "type": "verb" },
+  { "character": "问", "pinyin": "wèn", "meaning": "Preguntar", "type": "verb" },
+  { "character": "请", "pinyin": "qǐng", "meaning": "Por favor / Invitar", "type": "verb" },
+  { "character": "叫", "pinyin": "jiào", "meaning": "Llamarse", "type": "verb" },
+  { "character": "进来", "pinyin": "jìnlai", "meaning": "Entrar", "type": "verb" },
+  { "character": "学习", "pinyin": "xuéxí", "meaning": "Estudiar / Aprender", "type": "verb" },
+  
 
   { "character": "好", "pinyin": "hǎo", "meaning": "Bien / Bueno", "type": "adjective" },
   { "character": "忙", "pinyin": "máng", "meaning": "Ocupado / Ocupada", "type": "adjective" },
   { "character": "渴", "pinyin": "kĕ", "meaning": "Sediento", "type": "adjective" },
-
+  { "character": "高兴", "pinyin": "gāoxíng", "meaning": "Contento / Encantado", "type": "adjective" },
+  
 
   { "character": "也", "pinyin": "yě", "meaning": "También", "type": "adverb" },
   { "character": "不", "pinyin": "bù", "meaning": "No / Negación", "type": "adverb" },
   { "character": "很", "pinyin": "hěn", "meaning": "Muy*", "type": "adverb" },
   { "character": "都", "pinyin": "dou", "meaning": "Ambos / Todos", "type": "adverb" },
+  
 
-
-  { "character": "朋友", "pinyin": "péng you", "meaning": "Amigo / Amiga", "type": "noun" },
-  { "character": "好朋友", "pinyin": "hǎo péng you", "meaning": "Mejor Amigo", "type": "noun" },
-  { "character": "男朋友", "pinyin": "nán péng you", "meaning": "Novio", "type": "noun" },
-  { "character": "女朋友", "pinyin": "nǚ péng you", "meaning": "Novia", "type": "noun" },
+  { "character": "吗", "pinyin": "ma", "meaning": "(pregunta)", "type": "particle" },
+  { "character": "呢", "pinyin": "ne", "meaning": "(pregunta elíptica)", "type": "particle" },
+  { "character": "的", "pinyin": "de", "meaning": "(posesivo)", "type": "particle" },
+  
+  
+  { "character": "哪", "pinyin": "nǎ", "meaning": "Cuál", "type": "auxiliar" },
+  { "character": "哪儿", "pinyin": "nǎr", "meaning": "Dónde", "type": "auxiliar" },
+  { "character": "哪里", "pinyin": "nǎ lǐ", "meaning": "Dónde", "type": "auxiliar" },
+  { "character": "谁", "pinyin": "shéi", "meaning": "Quién", "type": "auxiliar" },
+  { "character": "什么", "pinyin": "shénme", "meaning": "Qué", "type": "auxiliar" },
+  { "character": "请问", "pinyin": "qǐngwèn", "meaning": "¿Podría preguntarle?", "type": "auxiliar" },
+  { "character": "请问", "pinyin": "guìxìng", "meaning": "¿Cómo se apellida? (formal)", "type": "auxiliar" },
+  { "character": "请问", "pinyin": "guìxìng", "meaning": "¿Cómo se apellida? (formal)", "type": "auxiliar" },
   
 
   { "character": "爸爸", "pinyin": "bàba", "meaning": "Papá", "type": "noun" },
@@ -70,12 +82,31 @@
   { "character": "外公", "pinyin": "wàigōng", "meaning": "Abuelo materno (sur)", "type": "noun" },
   { "character": "外婆", "pinyin": "wàipo", "meaning": "Abuela materna (sur)", "type": "noun" },
   { "character": "姥爷", "pinyin": "lǎoye", "meaning": "Abuelo materno (norte)", "type": "noun" },
-  { "character": "姥姥", "pinyin": "lǎolao", "meaning": "Abuela materno (norte)", "type": "noun" },
+  { "character": "姥姥", "pinyin": "lǎolao", "meaning": "Abuela materna (norte)", "type": "noun" },
   
 
+  { "character": "朋友", "pinyin": "péng you", "meaning": "Amigo / Amiga", "type": "noun" },
+  { "character": "好朋友", "pinyin": "hǎo péng you", "meaning": "Mejor Amigo", "type": "noun" },
+  { "character": "男朋友", "pinyin": "nán péng you", "meaning": "Novio", "type": "noun" },
+  { "character": "女朋友", "pinyin": "nǚ péng you", "meaning": "Novia", "type": "noun" },
+  { "character": "先生", "pinyin": "xiānsheng", "meaning": "Señor / Caballero", "type": "noun" },
+  { "character": "女士", "pinyin": "nǚshì", "meaning": "Señora / Dama", "type": "noun" },
+  
+
+  { "character": "老师", "pinyin": "lǎoshī", "meaning": "Profesor / Maestro", "type": "noun" },
+  { "character": "医生", "pinyin": "yīshēng", "meaning": "Doctor / Médico", "type": "noun" },
+  { "character": "歌手", "pinyin": "gēshǒu", "meaning": "Cantante", "type": "noun" },
+  { "character": "记者", "pinyin": "jìzhĕ", "meaning": "Periodista", "type": "noun" },
+  { "character": "学生", "pinyin": "xuésheng", "meaning": "Estudiante", "type": "noun" },
+  
+  { "character": "学院", "pinyin": "xuéyuàn", "meaning": "Instituto / Universidad", "type": "noun" },
+  
+
+  { "character": "外语", "pinyin": "wài yǔ", "meaning": "Idioma extranjero", "type": "noun" },      
+  { "character": "语言", "pinyin": "yǔyán", "meaning": "Idioma (general)", "type": "noun" },        
+  { "character": "汉语", "pinyin": "hàn yǔ", "meaning": "Chino (idioma)", "type": "noun" },  
   { "character": "中国", "pinyin": "zhōng guó", "meaning": "China", "type": "noun" },
   { "character": "中国人", "pinyin": "zhōng guó rén", "meaning": "Chino (gentilicio)", "type": "noun" },
-  { "character": "汉语", "pinyin": "hàn yǔ", "meaning": "Chino (idioma)", "type": "noun" },
   { "character": "英国", "pinyin": "yīng guó", "meaning": "Inglaterra", "type": "noun" },
   { "character": "英国人", "pinyin": "yīng guó rén", "meaning": "Inglés (gentilicio)", "type": "noun" },
   { "character": "英语", "pinyin": "yīng yǔ", "meaning": "Inglés (idioma)", "type": "noun" },
@@ -88,11 +119,6 @@
   { "character": "西班牙", "pinyin": "xī bān yá", "meaning": "España", "type": "noun" },  
   { "character": "西班牙人", "pinyin": "xī bān yá rén", "meaning": "Español (gentilicio)", "type": "noun" },  
   { "character": "西班牙语", "pinyin": "xī bān yá yǔ", "meaning": "Español (idioma)", "type": "noun" },    
-
-
-  { "character": "老师", "pinyin": "lǎoshī", "meaning": "Profesor / Maestro", "type": "noun" },
-  { "character": "医生", "pinyin": "yīshēng", "meaning": "Doctor / Médico", "type": "noun" },
-  { "character": "歌手", "pinyin": "gēshǒu", "meaning": "Cantante", "type": "noun" },
   
 
   { "character": "咖啡", "pinyin": "kāfēi", "meaning": "Café", "type": "noun" },
@@ -128,7 +154,7 @@
   { "character": "星期日", "pinyin": "xīng qī rì", "meaning": "Domingo (excepción)", "type": "noun" },
   { "character": "星期天", "pinyin": "xīng qī tiān", "meaning": "Domingo (excepción)", "type": "noun" },
   
-  
+
   { "character": "月", "pinyin": "yuè", "meaning": "Mes / Luna", "type": "noun" },
   { "character": "一月", "pinyin": "yī yuè", "meaning": "Enero", "type": "noun" },
   { "character": "二月", "pinyin": "èr yuè", "meaning": "Febrero", "type": "noun" },
