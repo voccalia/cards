@@ -128,7 +128,21 @@
   { "character": "星期日", "pinyin": "xīng qī rì", "meaning": "Domingo (excepción)", "type": "noun" },
   { "character": "星期天", "pinyin": "xīng qī tiān", "meaning": "Domingo (excepción)", "type": "noun" },
   
-
+  
+  { "character": "月", "pinyin": "yuè", "meaning": "Mes / Luna", "type": "noun" },
+  { "character": "一月", "pinyin": "yī yuè", "meaning": "Enero", "type": "noun" },
+  { "character": "二月", "pinyin": "èr yuè", "meaning": "Febrero", "type": "noun" },
+  { "character": "三月", "pinyin": "sān yuè", "meaning": "Marzo", "type": "noun" },
+  { "character": "四月", "pinyin": "sì yuè", "meaning": "Abril", "type": "noun" },
+  { "character": "五月", "pinyin": "wǔ yuè", "meaning": "Mayo", "type": "noun" },
+  { "character": "六月", "pinyin": "liù yuè", "meaning": "Junio", "type": "noun" },
+  { "character": "七月", "pinyin": "qī yuè", "meaning": "Julio", "type": "noun" },
+  { "character": "八月", "pinyin": "bā yuè", "meaning": "Agosto", "type": "noun" },
+  { "character": "九月", "pinyin": "jiǔ yuè", "meaning": "Septiembre", "type": "noun" },
+  { "character": "十月", "pinyin": "shí yuè", "meaning": "Octubre", "type": "noun" },
+  { "character": "十一月", "pinyin": "shí yī yuè", "meaning": "Noviembre", "type": "noun" },
+  { "character": "十二月", "pinyin": "shí èr yuè", "meaning": "Diciembre", "type": "noun" },
+  
 
   { "character": "", "pinyin": "", "meaning": "", "type": "" }
 ]
