@@ -4,11 +4,18 @@ body {
     font-family: sans-serif;
 }
 
+header {
+    text-align: center;
+}
+
 h1 { 
     text-align: center;
     color: white; 
 }
 
+main {
+    height: 800px;
+}
 
 .subtitle {
     color: white;
@@ -17,6 +24,12 @@ h1 {
 
 .cards {
     text-align: center;
+}
+
+.filters {
+    text-align: center;
+    height: 30px;
+    margin: 15px 0;
 }
 
 /* Flipcard based on https://desandro.github.io/3dtransforms/docs/card-flip.html */

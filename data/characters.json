@@ -1,11 +1,53 @@
 [
-  { "character": "人", "pinyin": "rén", "meaning": "Persona" },
-  { "character": "木", "pinyin": "mù", "meaning": "Árbol" },
-  { "character": "火", "pinyin": "huǒ","meaning": "Fuego" },
-  { "character": "日", "pinyin": "rì", "meaning": "Sol / Día" },
-  { "character": "月", "pinyin": "yuè", "meaning": "Luna / Mes" },
-  { "character": "山", "pinyin": "shān", "meaning": "Montaña" },
-  { "character": "女", "pinyin": "nŭ", "meaning": "Mujer" },
-  { "character": "男", "pinyin": "nán","meaning": "Hombre / Varón" },
-  { "character": "水", "pinyin": "shuĭ", "meaning": "Agua"}
+  { "character": "你", "pinyin": "nǐ", "meaning": "Tú", "type": "pronoun" },
+  { "character": "您", "pinyin": "nín", "meaning": "Usted", "type": "pronoun" },
+  { "character": "我", "pinyin": "wǒ", "meaning": "Yo", "type": "pronoun" },
+  { "character": "他", "pinyin": "tā", "meaning": "Él", "type": "pronoun" },
+  { "character": "她", "pinyin": "tā", "meaning": "Ella", "type": "pronoun" },
+  { "character": "它", "pinyin": "tā", "meaning": "Él (neutro)", "type": "pronoun" },
+  { "character": "他们", "pinyin": "tāmen","meaning": "Ellos", "type": "pronoun" },
+  { "character": "她们", "pinyin": "tāmen", "meaning": "Ellas", "type": "pronoun" },
+  { "character": "我们", "pinyin": "wǒmen", "meaning": "Nosotros", "type": "pronoun" },
+  { "character": "你们", "pinyin": "nǐmen", "meaning": "Ustedes", "type": "pronoun" },
+  { "character": "这", "pinyin": "zhè", "meaning": "Este / Esta", "type": "pronoun" },
+  { "character": "那", "pinyin": "nà", "meaning": "Ese / Esa", "type": "pronoun" },
+  { "character": "这儿", "pinyin": "zhèr", "meaning": "Aquí", "type": "pronoun" },
+  { "character": "这里", "pinyin": "zhè lǐ", "meaning": "Aquí", "type": "pronoun" },
+  { "character": "那儿", "pinyin": "nàr", "meaning": "Allá", "type": "pronoun" },
+  { "character": "那里", "pinyin": "nà lǐ", "meaning": "Allá", "type": "pronoun" },
+
+  
+  { "character": "哪", "pinyin": "nǎ", "meaning": "Cuál", "type": "auxiliar" },
+  { "character": "哪儿", "pinyin": "nǎr", "meaning": "Dónde", "type": "auxiliar" },
+  { "character": "哪里", "pinyin": "nǎ lǐ", "meaning": "Dónde", "type": "auxiliar" },
+
+
+  { "character": "要", "pinyin": "yaò", "meaning": "Querer / Desear", "type": "verb" },
+  { "character": "是", "pinyin": "shì", "meaning": "Ser", "type": "verb" },
+  { "character": "在", "pinyin": "zài", "meaning": "Estar", "type": "verb" },
+  { "character": "有", "pinyin": "yoŭ", "meaning": "Tener / Haber", "type": "verb" },
+  { "character": "没有", "pinyin": "méi yoŭ", "meaning": "No tengo (excepción)", "type": "verb" },  
+  { "character": "喝", "pinyin": "hē", "meaning": "Beber", "type": "verb" },
+  { "character": "说", "pinyin": "shuō", "meaning": "Hablar", "type": "verb" },
+  { "character": "休", "pinyin": "xiū", "meaning": "Descansar", "type": "verb" },
+
+
+  { "character": "好", "pinyin": "hǎo", "meaning": "Bien / Bueno", "type": "adjective" },
+  { "character": "忙", "pinyin": "máng", "meaning": "Ocupado / Ocupada", "type": "adjective" },
+  { "character": "渴", "pinyin": "kĕ", "meaning": "Sediento", "type": "adjective" },
+
+  { "character": "也", "pinyin": "yě", "meaning": "También", "type": "adverb" },
+  { "character": "不", "pinyin": "bù", "meaning": "No / Negación", "type": "adverb" },
+  { "character": "很", "pinyin": "hěn", "meaning": "Muy*", "type": "adverb" },
+  { "character": "都", "pinyin": "dou", "meaning": "Ambos / Todos", "type": "adverb" },
+
+  { "character": "人", "pinyin": "rén", "meaning": "Persona", "type": "noun" },
+  { "character": "木", "pinyin": "mù", "meaning": "Árbol", "type": "noun" },
+  { "character": "火", "pinyin": "huǒ","meaning": "Fuego", "type": "noun" },
+  { "character": "日", "pinyin": "rì", "meaning": "Sol / Día", "type": "noun" },
+  { "character": "月", "pinyin": "yuè", "meaning": "Luna / Mes", "type": "noun" },
+  { "character": "山", "pinyin": "shān", "meaning": "Montaña", "type": "noun" },
+  { "character": "女", "pinyin": "nŭ", "meaning": "Mujer", "type": "noun" },
+  { "character": "男", "pinyin": "nán","meaning": "Hombre / Varón", "type": "noun" },
+  { "character": "水", "pinyin": "shuĭ", "meaning": "Agua", "type": "noun" }
 ]

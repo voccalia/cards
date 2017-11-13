@@ -5,7 +5,8 @@ new Vue({
         this.getCharacters();
     },
     data: {
-        characters: []
+        characters: [],
+        search: '',
     },
     methods: {
         getCharacters: function() {
@@ -13,5 +14,10 @@ new Vue({
                 this.characters = response.data
             });
         }
+    },
+    computed: {
+      filterCharacters: function() {
+        return this.characters.filter((character) => character.meaning.toLowerCase().includes(this.search))
+      }
     }
 });
