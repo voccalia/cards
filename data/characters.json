@@ -1,4 +1,14 @@
 [
+  { "character": "人", "pinyin": "rén", "meaning": "Persona", "type": "noun" },
+  { "character": "木", "pinyin": "mù", "meaning": "Árbol", "type": "noun" },
+  { "character": "火", "pinyin": "huǒ","meaning": "Fuego", "type": "noun" },
+  { "character": "日", "pinyin": "rì", "meaning": "Sol / Día", "type": "noun" },
+  { "character": "月", "pinyin": "yuè", "meaning": "Luna / Mes", "type": "noun" },
+  { "character": "山", "pinyin": "shān", "meaning": "Montaña", "type": "noun" },
+  { "character": "女", "pinyin": "nŭ", "meaning": "Mujer", "type": "noun" },
+  { "character": "男", "pinyin": "nán","meaning": "Hombre / Varón", "type": "noun" },
+  { "character": "水", "pinyin": "shuĭ", "meaning": "Agua", "type": "noun" },
+
   { "character": "你", "pinyin": "nǐ", "meaning": "Tú", "type": "pronoun" },
   { "character": "您", "pinyin": "nín", "meaning": "Usted", "type": "pronoun" },
   { "character": "我", "pinyin": "wǒ", "meaning": "Yo", "type": "pronoun" },
@@ -41,13 +51,24 @@
   { "character": "很", "pinyin": "hěn", "meaning": "Muy*", "type": "adverb" },
   { "character": "都", "pinyin": "dou", "meaning": "Ambos / Todos", "type": "adverb" },
 
-  { "character": "人", "pinyin": "rén", "meaning": "Persona", "type": "noun" },
-  { "character": "木", "pinyin": "mù", "meaning": "Árbol", "type": "noun" },
-  { "character": "火", "pinyin": "huǒ","meaning": "Fuego", "type": "noun" },
-  { "character": "日", "pinyin": "rì", "meaning": "Sol / Día", "type": "noun" },
-  { "character": "月", "pinyin": "yuè", "meaning": "Luna / Mes", "type": "noun" },
-  { "character": "山", "pinyin": "shān", "meaning": "Montaña", "type": "noun" },
-  { "character": "女", "pinyin": "nŭ", "meaning": "Mujer", "type": "noun" },
-  { "character": "男", "pinyin": "nán","meaning": "Hombre / Varón", "type": "noun" },
-  { "character": "水", "pinyin": "shuĭ", "meaning": "Agua", "type": "noun" }
+  { "character": "朋友", "pinyin": "péng you", "meaning": "Amigo / Amiga", "type": "noun" },
+  { "character": "好朋友", "pinyin": "hǎo péng you", "meaning": "Mejor Amigo", "type": "noun" },
+  { "character": "男朋友", "pinyin": "nán péng you", "meaning": "Novio", "type": "noun" },
+  { "character": "女朋友", "pinyin": "nǚ péng you", "meaning": "Novia", "type": "noun" },
+  
+  { "character": "爸爸", "pinyin": "bàba", "meaning": "Papá", "type": "noun" },
+  { "character": "妈妈", "pinyin": "māma", "meaning": "Mamá", "type": "noun" },
+  { "character": "哥哥", "pinyin": "gēge", "meaning": "Hermano mayor", "type": "noun" },
+  { "character": "姐姐", "pinyin": "jiĕjie", "meaning": "Hermana mayor", "type": "noun" },
+  { "character": "弟弟", "pinyin": "dìdi", "meaning": "Hermano menor", "type": "noun" },
+  { "character": "妹妹", "pinyin": "mèimei", "meaning": "Hermana menor", "type": "noun" },
+  { "character": "爷爷", "pinyin": "yéye", "meaning": "Abuelo paterno", "type": "noun" },
+  { "character": "奶奶", "pinyin": "nǎinai", "meaning": "Abuela paterna", "type": "noun" },
+  { "character": "外公", "pinyin": "wàigōng", "meaning": "Abuelo materno (sur)", "type": "noun" },
+  { "character": "外婆", "pinyin": "wàipo", "meaning": "Abuela materna (sur)", "type": "noun" },
+  { "character": "姥爷", "pinyin": "lǎoye", "meaning": "Abuelo materno (norte)", "type": "noun" },
+  { "character": "姥姥", "pinyin": "lǎolao", "meaning": "Abuelo materno (norte)", "type": "noun" },
+  
+
+  { "character": "", "pinyin": "", "meaning": "", "type": "" }
 ]
