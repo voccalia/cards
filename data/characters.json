@@ -7,7 +7,7 @@
   { "character": "山", "pinyin": "shān", "meaning": "Montaña", "type": "noun" },
   { "character": "女", "pinyin": "nŭ", "meaning": "Mujer", "type": "noun" },
   { "character": "男", "pinyin": "nán","meaning": "Hombre / Varón", "type": "noun" },
-  { "character": "水", "pinyin": "shuĭ", "meaning": "Agua", "type": "noun" },
+
 
   { "character": "你", "pinyin": "nǐ", "meaning": "Tú", "type": "pronoun" },
   { "character": "您", "pinyin": "nín", "meaning": "Usted", "type": "pronoun" },
@@ -46,16 +46,19 @@
   { "character": "忙", "pinyin": "máng", "meaning": "Ocupado / Ocupada", "type": "adjective" },
   { "character": "渴", "pinyin": "kĕ", "meaning": "Sediento", "type": "adjective" },
 
+
   { "character": "也", "pinyin": "yě", "meaning": "También", "type": "adverb" },
   { "character": "不", "pinyin": "bù", "meaning": "No / Negación", "type": "adverb" },
   { "character": "很", "pinyin": "hěn", "meaning": "Muy*", "type": "adverb" },
   { "character": "都", "pinyin": "dou", "meaning": "Ambos / Todos", "type": "adverb" },
+
 
   { "character": "朋友", "pinyin": "péng you", "meaning": "Amigo / Amiga", "type": "noun" },
   { "character": "好朋友", "pinyin": "hǎo péng you", "meaning": "Mejor Amigo", "type": "noun" },
   { "character": "男朋友", "pinyin": "nán péng you", "meaning": "Novio", "type": "noun" },
   { "character": "女朋友", "pinyin": "nǚ péng you", "meaning": "Novia", "type": "noun" },
   
+
   { "character": "爸爸", "pinyin": "bàba", "meaning": "Papá", "type": "noun" },
   { "character": "妈妈", "pinyin": "māma", "meaning": "Mamá", "type": "noun" },
   { "character": "哥哥", "pinyin": "gēge", "meaning": "Hermano mayor", "type": "noun" },
@@ -67,8 +70,65 @@
   { "character": "外公", "pinyin": "wàigōng", "meaning": "Abuelo materno (sur)", "type": "noun" },
   { "character": "外婆", "pinyin": "wàipo", "meaning": "Abuela materna (sur)", "type": "noun" },
   { "character": "姥爷", "pinyin": "lǎoye", "meaning": "Abuelo materno (norte)", "type": "noun" },
-  { "character": "姥姥", "pinyin": "lǎolao", "meaning": "Abuelo materno (norte)", "type": "noun" },
+  { "character": "姥姥", "pinyin": "lǎolao", "meaning": "Abuela materno (norte)", "type": "noun" },
   
+
+  { "character": "中国", "pinyin": "zhōng guó", "meaning": "China", "type": "noun" },
+  { "character": "中国人", "pinyin": "zhōng guó rén", "meaning": "Chino (gentilicio)", "type": "noun" },
+  { "character": "汉语", "pinyin": "hàn yǔ", "meaning": "Chino (idioma)", "type": "noun" },
+  { "character": "英国", "pinyin": "yīng guó", "meaning": "Inglaterra", "type": "noun" },
+  { "character": "英国人", "pinyin": "yīng guó rén", "meaning": "Inglés (gentilicio)", "type": "noun" },
+  { "character": "英语", "pinyin": "yīng yǔ", "meaning": "Inglés (idioma)", "type": "noun" },
+  { "character": "美国", "pinyin": "měi guó", "meaning": "Estados Unidos", "type": "noun" },
+  { "character": "美国人", "pinyin": "měi guó rén", "meaning": "Estadounidense", "type": "noun" },
+  { "character": "美国人", "pinyin": "měi guó rén", "meaning": "Estadounidense", "type": "noun" },
+  { "character": "法国", "pinyin": "fǎ guó", "meaning": "Francia", "type": "noun" },
+  { "character": "法国人", "pinyin": "fǎ guó rén", "meaning": "Francés (gentilicio)", "type": "noun" },
+  { "character": "法语", "pinyin": "fǎ yǔ", "meaning": "Francés (idioma)", "type": "noun" },  
+  { "character": "西班牙", "pinyin": "xī bān yá", "meaning": "España", "type": "noun" },  
+  { "character": "西班牙人", "pinyin": "xī bān yá rén", "meaning": "Español (gentilicio)", "type": "noun" },  
+  { "character": "西班牙语", "pinyin": "xī bān yá yǔ", "meaning": "Español (idioma)", "type": "noun" },    
+
+
+  { "character": "老师", "pinyin": "lǎoshī", "meaning": "Profesor / Maestro", "type": "noun" },
+  { "character": "医生", "pinyin": "yīshēng", "meaning": "Doctor / Médico", "type": "noun" },
+  { "character": "歌手", "pinyin": "gēshǒu", "meaning": "Cantante", "type": "noun" },
+  
+
+  { "character": "咖啡", "pinyin": "kāfēi", "meaning": "Café", "type": "noun" },
+  { "character": "茶", "pinyin": "chá", "meaning": "Té", "type": "noun" },
+  { "character": "水", "pinyin": "shuĭ", "meaning": "Agua", "type": "noun" },
+  { "character": "牛奶", "pinyin": "niúnăi", "meaning": "Leche", "type": "noun" },
+  { "character": "可乐", "pinyin": "kĕlè", "meaning": "CocaCola", "type": "noun" },
+  { "character": "啤酒", "pinyin": "píjiŭ", "meaning": "Cerveza", "type": "noun" },
+  { "character": "白酒", "pinyin": "báijiŭ", "meaning": "Aguardiente (chino)", "type": "noun" },
+
+
+  { "character": "一", "pinyin": "yī", "meaning": "Uno / 1", "type": "number" },  
+  { "character": "二", "pinyin": "èr", "meaning": "Dos / 2", "type": "number" },  
+  { "character": "三", "pinyin": "Sān", "meaning": "Tres / 3", "type": "number" },  
+  { "character": "四", "pinyin": "sì", "meaning": "Cuatro / 4", "type": "number" },  
+  { "character": "五", "pinyin": "wǔ", "meaning": "Cinco / 5", "type": "number" },  
+  { "character": "六", "pinyin": "liù", "meaning": "Seis / 6", "type": "number" },  
+  { "character": "七", "pinyin": "qī", "meaning": "Siete / 7", "type": "number" },  
+  { "character": "八", "pinyin": "bā", "meaning": "Ocho / 8", "type": "number" },  
+  { "character": "九", "pinyin": "jiǔ", "meaning": "Nueve / 9", "type": "number" },  
+  { "character": "十", "pinyin": "shí", "meaning": "Diez / 10", "type": "number" },  
+  { "character": "〇", "pinyin": "líng", "meaning": "Cero / 0", "type": "number" },  
+  { "character": "两", "pinyin": "liăng", "meaning": "Dos / 2", "type": "number" },  
+
+
+  { "character": "星期", "pinyin": "xīng qī", "meaning": "Semana", "type": "noun" },
+  { "character": "星期一", "pinyin": "xīng qī yī", "meaning": "Lunes", "type": "noun" },
+  { "character": "星期二", "pinyin": "xīng qī èr", "meaning": "Martes", "type": "noun" },
+  { "character": "星期三", "pinyin": "xīng qī sān", "meaning": "Miércoles", "type": "noun" },
+  { "character": "星期四", "pinyin": "xīng qī sì", "meaning": "Jueves", "type": "noun" },
+  { "character": "星期五", "pinyin": "xīng qī wǔ", "meaning": "Viernes", "type": "noun" },
+  { "character": "星期六", "pinyin": "xīng qī liù", "meaning": "Sábado", "type": "noun" },
+  { "character": "星期日", "pinyin": "xīng qī rì", "meaning": "Domingo (excepción)", "type": "noun" },
+  { "character": "星期天", "pinyin": "xīng qī tiān", "meaning": "Domingo (excepción)", "type": "noun" },
+  
+
 
   { "character": "", "pinyin": "", "meaning": "", "type": "" }
 ]
