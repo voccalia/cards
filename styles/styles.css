@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Nixie+One');
+
 body { 
-    background: gray;
+    background: #3c3c3c;
     box-sizing: border-box;
     font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 700px;
 }
 
 header {
@@ -14,7 +19,30 @@ h1 {
 }
 
 main {
-    height: 800px;
+    padding-top: 150px;
+}
+
+.logo-text {
+    margin-bottom: 0;
+    font-family: 'Nixie One', cursive;
+    letter-spacing: 2px;
+    font-size: 32px;
+}
+
+.logo-slogan {
+    font-family: 'Nixie One', cursive;
+    color: rgba(255, 255, 255, 0.45);
+    letter-spacing: 3px;
+    font-size: 12px;
+}
+
+.app-header {
+    background: #333333;
+    overflow: auto;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,.5);
 }
 
 .subtitle {
@@ -30,6 +58,26 @@ main {
     text-align: center;
     height: 30px;
     margin: 15px 0;
+}
+
+.search-input {
+    border-radius: 4px;
+    padding: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: rgba(0, 0, 0, 0.1);    
+    color: rgba(255, 255, 255, 1);
+    outline: 0px;
+    width: 200px;
+    transition: all .2s ease;
+    font-size: 11px;
+    letter-spacing: 1px;
+ }
+
+.search-input:focus  {
+   background: rgba(0, 0, 0, 0.2);
+   border: 1px solid rgba(255, 255, 255, 0.1);
+   color: rgba(255, 255, 255, 1);
+   transition: all .2s ease;
 }
 
 /* Flipcard based on https://desandro.github.io/3dtransforms/docs/card-flip.html */
@@ -58,7 +106,7 @@ main {
   position: absolute;
   transform-style: preserve-3d;
   transition: transform 0.5s;
-  cursor: pointer; 
+  cursor: pointer;
 }  
 
 .card-content figure {

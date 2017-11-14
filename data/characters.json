@@ -68,7 +68,6 @@
   { "character": "什么", "pinyin": "shénme", "meaning": "Qué", "type": "auxiliar" },
   { "character": "请问", "pinyin": "qǐngwèn", "meaning": "¿Podría preguntarle?", "type": "auxiliar" },
   { "character": "请问", "pinyin": "guìxìng", "meaning": "¿Cómo se apellida? (formal)", "type": "auxiliar" },
-  { "character": "请问", "pinyin": "guìxìng", "meaning": "¿Cómo se apellida? (formal)", "type": "auxiliar" },
   
 
   { "character": "爸爸", "pinyin": "bàba", "meaning": "Papá", "type": "noun" },
@@ -167,8 +166,6 @@
   { "character": "九月", "pinyin": "jiǔ yuè", "meaning": "Septiembre", "type": "noun" },
   { "character": "十月", "pinyin": "shí yuè", "meaning": "Octubre", "type": "noun" },
   { "character": "十一月", "pinyin": "shí yī yuè", "meaning": "Noviembre", "type": "noun" },
-  { "character": "十二月", "pinyin": "shí èr yuè", "meaning": "Diciembre", "type": "noun" },
-  
+  { "character": "十二月", "pinyin": "shí èr yuè", "meaning": "Diciembre", "type": "noun" }
 
-  { "character": "", "pinyin": "", "meaning": "", "type": "" }
 ]

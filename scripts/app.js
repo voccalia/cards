@@ -1,6 +1,6 @@
 var dataCharacters = 'data/characters.json';
 new Vue({
-    el: '#characters',
+    el: '#app',
     created: function() {
         this.getCharacters();
     },

@@ -9,15 +9,27 @@
 <body>
 <div id="app">
 
-    <header>
-        <h1>Chinese Cards</h1>
-        <hr>
+    <header class="app-header">
+        <h1 class="logo-text">Hanzix</h1>
+        <span class="logo-slogan">Chinese Cards</span>
+        <div class="filters">
+            <input class="search-input" v-model="search" type="text" placeholder="Buscar tarjetas"  />
+            <select style="display:none;">
+                <option value="all">Todos</option>
+                <option value="pronouns">Pronombres</option>
+                <option value="verbs">Verbos</option>
+                <option value="family">Familia</option>
+                <option value="people">Personas</option>                
+                <option value="professions">Profesiones</option>
+                <option value="countrys">Países</option>  
+                <option value="adverbs">Bebidas</option>                
+                <option value="adverbs">Adverbios</option>
+                <option value="particles">Partículas</option> 
+            </select>          
+        </div>
     </header>
 
     <main id="characters">
-        <div class="filters">
-            <input v-model="search" type="text" placeholder="Buscar"  />          
-        </div>
         <div class="cards">
             <section v-for="character in filterCharacters" class="card">            
                 <div class="card-content" onclick="this.classList.toggle('flip');">
