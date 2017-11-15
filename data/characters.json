@@ -111,7 +111,6 @@
   { "character": "英语", "pinyin": "yīng yǔ", "meaning": "Inglés (idioma)", "type": "noun" },
   { "character": "美国", "pinyin": "měi guó", "meaning": "Estados Unidos", "type": "noun" },
   { "character": "美国人", "pinyin": "měi guó rén", "meaning": "Estadounidense", "type": "noun" },
-  { "character": "美国人", "pinyin": "měi guó rén", "meaning": "Estadounidense", "type": "noun" },
   { "character": "法国", "pinyin": "fǎ guó", "meaning": "Francia", "type": "noun" },
   { "character": "法国人", "pinyin": "fǎ guó rén", "meaning": "Francés (gentilicio)", "type": "noun" },
   { "character": "法语", "pinyin": "fǎ yǔ", "meaning": "Francés (idioma)", "type": "noun" },  
