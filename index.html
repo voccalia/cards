@@ -21,7 +21,7 @@
                 <option value="family">Familia</option>
                 <option value="people">Personas</option>                
                 <option value="professions">Profesiones</option>
-                <option value="countrys">Países</option>  
+                <option value="countries">Países</option>  
                 <option value="adverbs">Bebidas</option>                
                 <option value="adverbs">Adverbios</option>
                 <option value="particles">Partículas</option> 
@@ -31,7 +31,7 @@
 
     <main id="characters">
         <div class="cards">
-            <section v-for="character in filterCharacters" class="card">            
+            <div v-for="character in filterCharacters" class="card">            
                 <div class="card-content" onclick="this.classList.toggle('flip');">
                     <figure class="front">
                         <h2 v-cloak>{{ character.character }}</h2>                        
@@ -42,7 +42,7 @@
                         <p>{{ character.meaning }}</p>
                     </figure>       
                 </div>
-            </section>
+            </div>
         </div>
     </main>
 

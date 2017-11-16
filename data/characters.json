@@ -1,4 +1,12 @@
 [
+
+  { "character": "餐厅", "pinyin": "cāntīng", "meaning": "Comedor / Cafetería", "type": "noun" },  
+  { "character": "宿舍", "pinyin": "sùshè", "meaning": "Dormitorio", "type": "noun" },  
+  { "character": "进", "pinyin": "jìn", "meaning": "Entrar", "type": "verb" },
+  { "character": "坐", "pinyin": "zuò", "meaning": "Sentarse", "type": "verb" },  
+  { "character": "谢谢", "pinyin": "xièxie", "meaning": "Gracias", "type": "verb" },  
+  
+
   { "character": "人", "pinyin": "rén", "meaning": "Persona", "type": "noun" },
   { "character": "木", "pinyin": "mù", "meaning": "Árbol", "type": "noun" },
   { "character": "火", "pinyin": "huǒ","meaning": "Fuego", "type": "noun" },
@@ -67,7 +75,7 @@
   { "character": "谁", "pinyin": "shéi", "meaning": "Quién", "type": "auxiliar" },
   { "character": "什么", "pinyin": "shénme", "meaning": "Qué", "type": "auxiliar" },
   { "character": "请问", "pinyin": "qǐngwèn", "meaning": "¿Podría preguntarle?", "type": "auxiliar" },
-  { "character": "请问", "pinyin": "guìxìng", "meaning": "¿Cómo se apellida? (formal)", "type": "auxiliar" },
+  { "character": "贵姓", "pinyin": "guìxìng", "meaning": "¿Cómo se apellida? (formal)", "type": "auxiliar" },
   
 
   { "character": "爸爸", "pinyin": "bàba", "meaning": "Papá", "type": "noun" },
