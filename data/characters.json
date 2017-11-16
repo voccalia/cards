@@ -5,6 +5,12 @@
   { "character": "进", "pinyin": "jìn", "meaning": "Entrar", "type": "verb" },
   { "character": "坐", "pinyin": "zuò", "meaning": "Sentarse", "type": "verb" },  
   { "character": "谢谢", "pinyin": "xièxie", "meaning": "Gracias", "type": "verb" },  
+  { "character": "对不起", "pinyin": "duìbuqǐ", "meaning": "Lo siento / Perdón", "type": "verb" },  
+  { "character": "知道", "pinyin": "zhīdào", "meaning": "Saber", "type": "verb" },  
+  { "character": "没关系", "pinyin": "mèi guānxi", "meaning": "No importa", "type": "verb" },
+
+  { "character": "你好", "pinyin": "nǐ hǎo", "meaning": "Hola", "type": "noun" },  
+  { "character": "再见", "pinyin": "zàijiàn", "meaning": "Hasta luego", "type": "noun" },  
   
 
   { "character": "人", "pinyin": "rén", "meaning": "Persona", "type": "noun" },
