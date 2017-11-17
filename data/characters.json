@@ -7,7 +7,12 @@
   { "character": "谢谢", "pinyin": "xièxie", "meaning": "Gracias", "type": "verb" },  
   { "character": "对不起", "pinyin": "duìbuqǐ", "meaning": "Lo siento / Perdón", "type": "verb" },  
   { "character": "知道", "pinyin": "zhīdào", "meaning": "Saber", "type": "verb" },  
-  { "character": "没关系", "pinyin": "mèi guānxi", "meaning": "No importa", "type": "verb" },
+  { "character": "没关系", "pinyin": "mèi guānxi", "meaning": "No importa", "type": "other" },
+  { "character": "再", "pinyin": "zài", "meaning": "Otra vez", "type": "other" },
+  { "character": "小姐", "pinyin": "xiǎojiĕ", "meaning": "Señorita", "type": "other" },
+  { "character": "层", "pinyin": "céng", "meaning": "Piso / Planta", "type": "other" },
+  { "character": "号", "pinyin": "hào", "meaning": "Número", "type": "noun" },
+  
 
   { "character": "你好", "pinyin": "nǐ hǎo", "meaning": "Hola", "type": "noun" },  
   { "character": "再见", "pinyin": "zàijiàn", "meaning": "Hasta luego", "type": "noun" },  
