@@ -12,6 +12,10 @@
   { "character": "小姐", "pinyin": "xiǎojiĕ", "meaning": "Señorita", "type": "other" },
   { "character": "层", "pinyin": "céng", "meaning": "Piso / Planta", "type": "other" },
   { "character": "号", "pinyin": "hào", "meaning": "Número", "type": "noun" },
+  { "character": "不用", "pinyin": "búyòng", "meaning": "No necesitar", "type": "adverb" },
+  { "character": "这儿", "pinyin": "zhèr", "meaning": "Aquí", "type": "adverb" },
+  { "character": "晚", "pinyin": "wǎn", "meaning": "Tarde", "type": "adjective" },
+  { "character": "了", "pinyin": "le", "meaning": "Particula modal (pasado)", "type": "adjective" },
   
 
   { "character": "你好", "pinyin": "nǐ hǎo", "meaning": "Hola", "type": "noun" },  
