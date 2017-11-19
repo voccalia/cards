@@ -16,8 +16,8 @@ new Vue({
         }
     },
     computed: {
-      filterCharacters: function() {
-        return this.characters.filter((character) => character.meaning.toLowerCase().includes(this.search))
-      }
+        filterCharacters: function() {
+            return this.characters.filter((character) => character.meaning.toLowerCase().includes(this.search))
+        }
     }
 });
