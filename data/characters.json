@@ -1,5 +1,13 @@
 [
 
+  { "character": "今天", "pinyin": "jīn tiān", "meaning": "Hoy", "type": "noun" },  
+  { "character": "昨天", "pinyin": "zuó tiān", "meaning": "Ayer", "type": "noun" },  
+  { "character": "明天", "pinyin": "míng tiān", "meaning": "Mañana", "type": "noun" },  
+  { "character": "今年", "pinyin": "jīn nián", "meaning": "Este año", "type": "noun" },  
+  { "character": "去年", "pinyin": "qù nián", "meaning": "Año pasado", "type": "noun" },  
+  { "character": "明年", "pinyin": "míng nián", "meaning": "Próximo año", "type": "noun" },  
+  
+
   { "character": "餐厅", "pinyin": "cāntīng", "meaning": "Comedor / Cafetería", "type": "noun" },  
   { "character": "宿舍", "pinyin": "sùshè", "meaning": "Dormitorio", "type": "noun" },  
   { "character": "进", "pinyin": "jìn", "meaning": "Entrar", "type": "verb" },
