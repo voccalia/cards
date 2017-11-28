@@ -1,5 +1,9 @@
 [
 
+  { "character": "去", "pinyin": "qù", "meaning": "Ir", "type": "verb" },
+  { "character": "怎么样", "pinyin": "zĕnmeyàng", "meaning": "¿Qué tal?", "type": "other" },
+  { "character": "有意思", "pinyin": "yǒu yìsi", "meaning": "Interesante", "type": "adjective" },     
+
   { "character": "今天", "pinyin": "jīn tiān", "meaning": "Hoy", "type": "noun" },  
   { "character": "昨天", "pinyin": "zuó tiān", "meaning": "Ayer", "type": "noun" },  
   { "character": "明天", "pinyin": "míng tiān", "meaning": "Mañana", "type": "noun" },  
