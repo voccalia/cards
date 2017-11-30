@@ -2,7 +2,13 @@
 
   { "character": "去", "pinyin": "qù", "meaning": "Ir", "type": "verb" },
   { "character": "怎么样", "pinyin": "zĕnmeyàng", "meaning": "¿Qué tal?", "type": "other" },
-  { "character": "有意思", "pinyin": "yǒu yìsi", "meaning": "Interesante", "type": "adjective" },     
+  { "character": "有意思", "pinyin": "yǒu yìsi", "meaning": "Interesante", "type": "adjective" },
+  { "character": "京剧", "pinyin": "jīngjù", "meaning": "Ópera de Beijing", "type": "noun" },     
+  { "character": "天气", "pinyin": "tiān qì", "meaning": "Atmosférico", "type": "noun" },     
+  { "character": "太", "pinyin": "tài", "meaning": "Demasiado", "type": "adverb" },     
+  { "character": "时候", "pinyin": "shíhou", "meaning": "Tiempo / Momento", "type": "noun" },     
+  { "character": "游泳", "pinyin": "yóuyǒng", "meaning": "Nadar", "type": "verb" },     
+  
 
   { "character": "今天", "pinyin": "jīn tiān", "meaning": "Hoy", "type": "noun" },  
   { "character": "昨天", "pinyin": "zuó tiān", "meaning": "Ayer", "type": "noun" },  
