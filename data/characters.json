@@ -47,18 +47,18 @@
   { "character": "月", "pinyin": "yuè", "meaning": "Luna / Mes", "type": "noun" },
   { "character": "山", "pinyin": "shān", "meaning": "Montaña", "type": "noun" },
   { "character": "女", "pinyin": "nŭ", "meaning": "Mujer", "type": "noun" },
-  { "character": "男", "pinyin": "nán","meaning": "Hombre / Varón", "type": "noun" },
+  { "character": "男", "pinyin": "nán","meaning": "Hombre / Varón", "type": "noun", "level": "2" },
 
 
-  { "character": "你", "pinyin": "nǐ", "meaning": "Tú", "type": "pronoun" },
+  { "character": "你", "pinyin": "nǐ", "meaning": "Tú", "type": "pronoun", "level": "1" },
   { "character": "您", "pinyin": "nín", "meaning": "Usted", "type": "pronoun" },
-  { "character": "我", "pinyin": "wǒ", "meaning": "Yo", "type": "pronoun" },
-  { "character": "他", "pinyin": "tā", "meaning": "Él", "type": "pronoun" },
+  { "character": "我", "pinyin": "wǒ", "meaning": "Yo", "type": "pronoun", "level": "1" },
+  { "character": "他", "pinyin": "tā", "meaning": "Él", "type": "pronoun", "level": "2" },
   { "character": "她", "pinyin": "tā", "meaning": "Ella", "type": "pronoun" },
   { "character": "它", "pinyin": "tā", "meaning": "Él (neutro)", "type": "pronoun" },
-  { "character": "他们", "pinyin": "tāmen","meaning": "Ellos", "type": "pronoun" },
+  { "character": "他们", "pinyin": "tāmen","meaning": "Ellos", "type": "pronoun", "level": "2" },
   { "character": "她们", "pinyin": "tāmen", "meaning": "Ellas", "type": "pronoun" },
-  { "character": "我们", "pinyin": "wǒmen", "meaning": "Nosotros", "type": "pronoun" },
+  { "character": "我们", "pinyin": "wǒmen", "meaning": "Nosotros", "type": "pronoun", "level": "2" },
   { "character": "你们", "pinyin": "nǐmen", "meaning": "Ustedes", "type": "pronoun" },
   { "character": "这", "pinyin": "zhè", "meaning": "Este / Esta", "type": "pronoun" },
   { "character": "那", "pinyin": "nà", "meaning": "Ese / Esa", "type": "pronoun" },
@@ -68,12 +68,12 @@
   { "character": "那里", "pinyin": "nà lǐ", "meaning": "Allá", "type": "pronoun" },
 
 
-  { "character": "要", "pinyin": "yaò", "meaning": "Querer / Desear", "type": "verb" },
+  { "character": "要", "pinyin": "yaò", "meaning": "Querer / Desear", "type": "verb", "level": "2" },
   { "character": "是", "pinyin": "shì", "meaning": "Ser", "type": "verb" },
   { "character": "在", "pinyin": "zài", "meaning": "Estar", "type": "verb" },
   { "character": "有", "pinyin": "yoŭ", "meaning": "Tener / Haber", "type": "verb" },
   { "character": "没有", "pinyin": "méi yoŭ", "meaning": "No tengo (excepción)", "type": "verb" },  
-  { "character": "喝", "pinyin": "hē", "meaning": "Beber", "type": "verb" },
+  { "character": "喝", "pinyin": "hē", "meaning": "Beber", "type": "verb", "level": "2" },
   { "character": "说", "pinyin": "shuō", "meaning": "Hablar", "type": "verb" },
   { "character": "休", "pinyin": "xiū", "meaning": "Descansar", "type": "verb" },
   { "character": "认识", "pinyin": "rènshi", "meaning": "Conocer (personas)", "type": "verb" },
@@ -85,20 +85,20 @@
   { "character": "学习", "pinyin": "xuéxí", "meaning": "Estudiar / Aprender", "type": "verb" },
   
 
-  { "character": "好", "pinyin": "hǎo", "meaning": "Bien / Bueno", "type": "adjective" },
-  { "character": "忙", "pinyin": "máng", "meaning": "Ocupado / Ocupada", "type": "adjective" },
+  { "character": "好", "pinyin": "hǎo", "meaning": "Bien / Bueno", "type": "adjective", "level": "1" },
+  { "character": "忙", "pinyin": "máng", "meaning": "Ocupado", "type": "adjective", "level": "2" },
   { "character": "渴", "pinyin": "kĕ", "meaning": "Sediento", "type": "adjective" },
   { "character": "高兴", "pinyin": "gāoxíng", "meaning": "Contento / Encantado", "type": "adjective" },
   
 
-  { "character": "也", "pinyin": "yě", "meaning": "También", "type": "adverb" },
-  { "character": "不", "pinyin": "bù", "meaning": "No / Negación", "type": "adverb" },
-  { "character": "很", "pinyin": "hěn", "meaning": "Muy*", "type": "adverb" },
-  { "character": "都", "pinyin": "dou", "meaning": "Ambos / Todos", "type": "adverb" },
+  { "character": "也", "pinyin": "yě", "meaning": "También", "type": "adverb", "level": "1" },
+  { "character": "不", "pinyin": "bù", "meaning": "No / Negación", "type": "adverb", "level": "2" },
+  { "character": "很", "pinyin": "hěn", "meaning": "Muy*", "type": "adverb", "level": "1" },
+  { "character": "都", "pinyin": "dou", "meaning": "Ambos / Todos", "type": "adverb", "level": "2" },
   
 
-  { "character": "吗", "pinyin": "ma", "meaning": "(pregunta)", "type": "particle" },
-  { "character": "呢", "pinyin": "ne", "meaning": "(pregunta elíptica)", "type": "particle" },
+  { "character": "吗", "pinyin": "ma", "meaning": "(pregunta)", "type": "particle", "level": "1" },
+  { "character": "呢", "pinyin": "ne", "meaning": "(pregunta elíptica)", "type": "particle", "level": "1" },
   { "character": "的", "pinyin": "de", "meaning": "(posesivo)", "type": "particle" },
   
   
@@ -111,11 +111,11 @@
   { "character": "贵姓", "pinyin": "guìxìng", "meaning": "¿Cómo se apellida? (formal)", "type": "auxiliar" },
   
 
-  { "character": "爸爸", "pinyin": "bàba", "meaning": "Papá", "type": "noun" },
-  { "character": "妈妈", "pinyin": "māma", "meaning": "Mamá", "type": "noun" },
-  { "character": "哥哥", "pinyin": "gēge", "meaning": "Hermano mayor", "type": "noun" },
+  { "character": "爸爸", "pinyin": "bàba", "meaning": "Papá", "type": "noun", "level": "2" },
+  { "character": "妈妈", "pinyin": "māma", "meaning": "Mamá", "type": "noun", "level": "2" },
+  { "character": "哥哥", "pinyin": "gēge", "meaning": "Hermano mayor", "type": "noun", "level": "2" },
   { "character": "姐姐", "pinyin": "jiĕjie", "meaning": "Hermana mayor", "type": "noun" },
-  { "character": "弟弟", "pinyin": "dìdi", "meaning": "Hermano menor", "type": "noun" },
+  { "character": "弟弟", "pinyin": "dìdi", "meaning": "Hermano menor", "type": "noun", "level": "2" },
   { "character": "妹妹", "pinyin": "mèimei", "meaning": "Hermana menor", "type": "noun" },
   { "character": "爷爷", "pinyin": "yéye", "meaning": "Abuelo paterno", "type": "noun" },
   { "character": "奶奶", "pinyin": "nǎinai", "meaning": "Abuela paterna", "type": "noun" },
@@ -125,7 +125,7 @@
   { "character": "姥姥", "pinyin": "lǎolao", "meaning": "Abuela materna (norte)", "type": "noun" },
   
 
-  { "character": "朋友", "pinyin": "péng you", "meaning": "Amigo / Amiga", "type": "noun" },
+  { "character": "朋友", "pinyin": "péng you", "meaning": "Amigo", "type": "noun", "level": "2" },
   { "character": "好朋友", "pinyin": "hǎo péng you", "meaning": "Mejor Amigo", "type": "noun" },
   { "character": "男朋友", "pinyin": "nán péng you", "meaning": "Novio", "type": "noun" },
   { "character": "女朋友", "pinyin": "nǚ péng you", "meaning": "Novia", "type": "noun" },
@@ -160,7 +160,7 @@
   { "character": "西班牙语", "pinyin": "xī bān yá yǔ", "meaning": "Español (idioma)", "type": "noun" },    
   
 
-  { "character": "咖啡", "pinyin": "kāfēi", "meaning": "Café", "type": "noun" },
+  { "character": "咖啡", "pinyin": "kāfēi", "meaning": "Café", "type": "noun", "level": "2" },
   { "character": "茶", "pinyin": "chá", "meaning": "Té", "type": "noun" },
   { "character": "水", "pinyin": "shuĭ", "meaning": "Agua", "type": "noun" },
   { "character": "牛奶", "pinyin": "niúnăi", "meaning": "Leche", "type": "noun" },
