@@ -54,14 +54,14 @@
   { "character": "您", "pinyin": "nín", "meaning": "Usted", "type": "pronoun" },
   { "character": "我", "pinyin": "wǒ", "meaning": "Yo", "type": "pronoun", "level": "1" },
   { "character": "他", "pinyin": "tā", "meaning": "Él", "type": "pronoun", "level": "2" },
-  { "character": "她", "pinyin": "tā", "meaning": "Ella", "type": "pronoun" },
+  { "character": "她", "pinyin": "tā", "meaning": "Ella", "type": "pronoun", "level": "3" },
   { "character": "它", "pinyin": "tā", "meaning": "Él (neutro)", "type": "pronoun" },
   { "character": "他们", "pinyin": "tāmen","meaning": "Ellos", "type": "pronoun", "level": "2" },
   { "character": "她们", "pinyin": "tāmen", "meaning": "Ellas", "type": "pronoun" },
   { "character": "我们", "pinyin": "wǒmen", "meaning": "Nosotros", "type": "pronoun", "level": "2" },
   { "character": "你们", "pinyin": "nǐmen", "meaning": "Ustedes", "type": "pronoun" },
   { "character": "这", "pinyin": "zhè", "meaning": "Este / Esta", "type": "pronoun" },
-  { "character": "那", "pinyin": "nà", "meaning": "Ese / Esa", "type": "pronoun" },
+  { "character": "那", "pinyin": "nà", "meaning": "Ese / Esa", "type": "pronoun", "level": "3" },
   { "character": "这儿", "pinyin": "zhèr", "meaning": "Aquí", "type": "pronoun" },
   { "character": "这里", "pinyin": "zhè lǐ", "meaning": "Aquí", "type": "pronoun" },
   { "character": "那儿", "pinyin": "nàr", "meaning": "Allá", "type": "pronoun" },
@@ -69,7 +69,7 @@
 
 
   { "character": "要", "pinyin": "yaò", "meaning": "Querer / Desear", "type": "verb", "level": "2" },
-  { "character": "是", "pinyin": "shì", "meaning": "Ser", "type": "verb" },
+  { "character": "是", "pinyin": "shì", "meaning": "Ser", "type": "verb", "level": "3" },
   { "character": "在", "pinyin": "zài", "meaning": "Estar", "type": "verb" },
   { "character": "有", "pinyin": "yoŭ", "meaning": "Tener / Haber", "type": "verb" },
   { "character": "没有", "pinyin": "méi yoŭ", "meaning": "No tengo (excepción)", "type": "verb" },  
@@ -102,10 +102,10 @@
   { "character": "的", "pinyin": "de", "meaning": "(posesivo)", "type": "particle" },
   
   
-  { "character": "哪", "pinyin": "nǎ", "meaning": "Cuál", "type": "auxiliar" },
+  { "character": "哪", "pinyin": "nǎ", "meaning": "Cuál", "type": "auxiliar", "level": "3" },
   { "character": "哪儿", "pinyin": "nǎr", "meaning": "Dónde", "type": "auxiliar" },
   { "character": "哪里", "pinyin": "nǎ lǐ", "meaning": "Dónde", "type": "auxiliar" },
-  { "character": "谁", "pinyin": "shéi", "meaning": "Quién", "type": "auxiliar" },
+  { "character": "谁", "pinyin": "shéi", "meaning": "Quién", "type": "auxiliar", "level": "3" },
   { "character": "什么", "pinyin": "shénme", "meaning": "Qué", "type": "auxiliar" },
   { "character": "请问", "pinyin": "qǐngwèn", "meaning": "¿Podría preguntarle?", "type": "auxiliar" },
   { "character": "贵姓", "pinyin": "guìxìng", "meaning": "¿Cómo se apellida? (formal)", "type": "auxiliar" },
@@ -133,7 +133,7 @@
   { "character": "女士", "pinyin": "nǚshì", "meaning": "Señora / Dama", "type": "noun" },
   
 
-  { "character": "老师", "pinyin": "lǎoshī", "meaning": "Profesor / Maestro", "type": "noun" },
+  { "character": "老师", "pinyin": "lǎoshī", "meaning": "Profesor / Maestro", "type": "noun", "level": "3" },
   { "character": "医生", "pinyin": "yīshēng", "meaning": "Doctor / Médico", "type": "noun" },
   { "character": "歌手", "pinyin": "gēshǒu", "meaning": "Cantante", "type": "noun" },
   { "character": "记者", "pinyin": "jìzhĕ", "meaning": "Periodista", "type": "noun" },
@@ -142,10 +142,11 @@
   { "character": "学院", "pinyin": "xuéyuàn", "meaning": "Instituto / Universidad", "type": "noun" },
   
 
+  { "character": "国", "pinyin": "guó", "meaning": "País", "type": "noun", "level": "3" },
   { "character": "外语", "pinyin": "wài yǔ", "meaning": "Idioma extranjero", "type": "noun" },      
   { "character": "语言", "pinyin": "yǔyán", "meaning": "Idioma (general)", "type": "noun" },        
   { "character": "汉语", "pinyin": "hàn yǔ", "meaning": "Chino (idioma)", "type": "noun" },  
-  { "character": "中国", "pinyin": "zhōng guó", "meaning": "China", "type": "noun" },
+  { "character": "中国", "pinyin": "zhōng guó", "meaning": "China", "type": "noun", "level": "3" },
   { "character": "中国人", "pinyin": "zhōng guó rén", "meaning": "Chino (gentilicio)", "type": "noun" },
   { "character": "英国", "pinyin": "yīng guó", "meaning": "Inglaterra", "type": "noun" },
   { "character": "英国人", "pinyin": "yīng guó rén", "meaning": "Inglés (gentilicio)", "type": "noun" },
