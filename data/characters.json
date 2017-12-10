@@ -28,12 +28,12 @@
   { "character": "没关系", "pinyin": "mèi guānxi", "meaning": "No importa", "type": "other", "level": "5" },
   { "character": "再", "pinyin": "zài", "meaning": "Otra vez", "type": "other", "level": "5" },
   { "character": "小姐", "pinyin": "xiǎojiĕ", "meaning": "Señorita", "type": "other", "level": "5" },
-  { "character": "层", "pinyin": "céng", "meaning": "Piso / Planta", "type": "other" },
-  { "character": "号", "pinyin": "hào", "meaning": "Número", "type": "noun" },
-  { "character": "不用", "pinyin": "búyòng", "meaning": "No necesitar", "type": "adverb" },
-  { "character": "这儿", "pinyin": "zhèr", "meaning": "Aquí", "type": "adverb" },
-  { "character": "晚", "pinyin": "wǎn", "meaning": "Tarde", "type": "adjective" },
-  { "character": "了", "pinyin": "le", "meaning": "Particula modal (pasado)", "type": "particle" },
+  { "character": "层", "pinyin": "céng", "meaning": "Piso / Planta", "type": "other", "level": "5" },
+  { "character": "号", "pinyin": "hào", "meaning": "Número", "type": "noun", "level": "5" },
+  { "character": "不用", "pinyin": "búyòng", "meaning": "No necesitar", "type": "adverb", "level": "5" },
+  { "character": "这儿", "pinyin": "zhèr", "meaning": "Aquí", "type": "adverb", "level": "5" },
+  { "character": "晚", "pinyin": "wǎn", "meaning": "Tarde", "type": "adjective", "level": "5" },
+  { "character": "了", "pinyin": "le", "meaning": "Particula modal (pasado)", "type": "particle", "level": "5" },
   
 
   { "character": "你好", "pinyin": "nǐ hǎo", "meaning": "Hola", "type": "noun" },  
@@ -173,16 +173,16 @@
 
 
   { "character": "一", "pinyin": "yī", "meaning": "Uno / 1", "type": "number" },  
-  { "character": "二", "pinyin": "èr", "meaning": "Dos / 2", "type": "number" },  
+  { "character": "二", "pinyin": "èr", "meaning": "Dos / 2", "type": "number", "level": "5" },  
   { "character": "三", "pinyin": "Sān", "meaning": "Tres / 3", "type": "number" },  
-  { "character": "四", "pinyin": "sì", "meaning": "Cuatro / 4", "type": "number" },  
+  { "character": "四", "pinyin": "sì", "meaning": "Cuatro / 4", "type": "number", "level": "5" },  
   { "character": "五", "pinyin": "wǔ", "meaning": "Cinco / 5", "type": "number" },  
   { "character": "六", "pinyin": "liù", "meaning": "Seis / 6", "type": "number" },  
   { "character": "七", "pinyin": "qī", "meaning": "Siete / 7", "type": "number" },  
   { "character": "八", "pinyin": "bā", "meaning": "Ocho / 8", "type": "number" },  
   { "character": "九", "pinyin": "jiǔ", "meaning": "Nueve / 9", "type": "number" },  
   { "character": "十", "pinyin": "shí", "meaning": "Diez / 10", "type": "number" },  
-  { "character": "〇", "pinyin": "líng", "meaning": "Cero / 0", "type": "number" },  
+  { "character": "〇", "pinyin": "líng", "meaning": "Cero / 0", "type": "number", "level": "5" },  
   { "character": "两", "pinyin": "liăng", "meaning": "Dos / 2", "type": "number" },  
 
 
