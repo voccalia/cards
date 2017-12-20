@@ -137,7 +137,21 @@ main {
   .card-content .front {
     color: white;
     background: black;
+    transition: all 0.5s ease;
+    border: 2px solid black;    
   }
+
+  .card-content .front:hover {
+    color: white;
+    background: black;
+    transition: all 0.5s ease;
+    border: 2px solid white;
+  }
+
+  .card-content .front:hover h2 {
+    /* color: black; */
+  }
+
     .card-content .front h2 {
         font-size: 64px; 
         font-family: serif;
