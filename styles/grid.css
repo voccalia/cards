@@ -1,6 +1,40 @@
-.cards-grid {
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.grid {
     display: grid;
-    grid-template-columns: 250px 250px 250px 250px;
-    grid-template-rows: 300px 300px 300px 300px;
-    grid-gap: 20px;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 300px 300px 300px 300px 300px 300px; */
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 300px);
+    grid-gap: 5px;
+}
+
+.grid-item {
+    background: black;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    padding-top: 100px;
+    font-size: 92px;
+}
+
+.grid-item.expanded {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+.grid-item.expanded-vertical {
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+.grid-item.expanded-v4-6 {
+    grid-row-start: 4;
+    grid-row-end: 6;
 }
