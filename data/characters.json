@@ -219,6 +219,9 @@
   { "character": "九月", "pinyin": "jiǔ yuè", "meaning": "Septiembre", "type": "noun" },
   { "character": "十月", "pinyin": "shí yuè", "meaning": "Octubre", "type": "noun" },
   { "character": "十一月", "pinyin": "shí yī yuè", "meaning": "Noviembre", "type": "noun" },
-  { "character": "十二月", "pinyin": "shí èr yuè", "meaning": "Diciembre", "type": "noun" }
+  { "character": "十二月", "pinyin": "shí èr yuè", "meaning": "Diciembre", "type": "noun" },
+
+  { "character": "书", "pinyin": "zhū", "meaning": "Libro", "type": "noun" }
+
 
 ]
