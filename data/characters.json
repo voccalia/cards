@@ -221,7 +221,8 @@
   { "character": "十一月", "pinyin": "shí yī yuè", "meaning": "Noviembre", "type": "noun" },
   { "character": "十二月", "pinyin": "shí èr yuè", "meaning": "Diciembre", "type": "noun" },
 
-  { "character": "书", "pinyin": "zhū", "meaning": "Libro", "type": "noun" }
-
+  { "character": "书", "pinyin": "zhū", "meaning": "Libro", "type": "noun" },
+  { "character": "和", "pinyin": "hé", "meaning": "y (conector)", "type": "other" },
+  { "character": "因为", "pinyin": "yīnwèi", "meaning": "porque", "type": "other" }
 
 ]
