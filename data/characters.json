@@ -225,6 +225,8 @@
   { "character": "和", "pinyin": "hé", "meaning": "y (conector)", "type": "other" },
   { "character": "因为", "pinyin": "yīnwèi", "meaning": "Porque", "type": "other" },
   { "character": "国际", "pinyin": "guójì", "meaning": "Internacional", "type": "noun" },
-  { "character": "颜色", "pinyin": "yánsè", "meaning": "Color", "type": "noun" }
+  { "character": "颜色", "pinyin": "yánsè", "meaning": "Color", "type": "noun" },
+  { "character": "藍", "pinyin": "lán", "meaning": "Azul", "type": "noun" }
 
+  
 ]
