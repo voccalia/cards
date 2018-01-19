@@ -227,7 +227,8 @@
   { "character": "国际", "pinyin": "guójì", "meaning": "Internacional", "type": "noun" },
   { "character": "颜色", "pinyin": "yánsè", "meaning": "Color", "type": "noun" },
   { "character": "藍", "pinyin": "lán", "meaning": "Azul", "type": "noun" },
-  { "character": "文化", "pinyin": "wénhuà", "meaning": "Cultura", "type": "noun" }
+  { "character": "文化", "pinyin": "wénhuà", "meaning": "Cultura", "type": "noun" },
+  { "character": "设计", "pinyin": "shèji", "meaning": "Diseño", "type": "noun" }
 
   
 ]
