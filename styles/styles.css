@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Nixie+One');
 
+* {
+    box-sizing: border-box;
+}
+
 body { 
     background: #3c3c3c;
     box-sizing: border-box;
@@ -165,6 +169,7 @@ main {
     background: white;
     color: black;
     transform: rotateY( 180deg );
+    padding: 0 30px;
   }
 
     .card-content .back h2 {

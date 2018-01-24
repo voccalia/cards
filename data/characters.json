@@ -1,5 +1,15 @@
 [
 
+  { "character": "开学", "pinyin": "kāixué", "meaning": "Empezar a estudiar", "type": "verb", "level": "7" },
+  { "character": "开", "pinyin": "kāi", "meaning": "Empezar / Abrir", "type": "verb", "level": "7" }, 
+  { "character": "高", "pinyin": "gāo", "meaning": "alto", "type": "adjective", "level": "7" },
+  { "character": "看", "pinyin": "kàn", "meaning": "Mirar / Ver", "type": "verb", "level": "7" },
+  { "character": "一下", "pinyin": "yíxià", "meaning": "(Se utiliza luego de un verbo para 'suavizarlo')", "type": "other", "level": "7" },     
+  { "character": "名片", "pinyin": "míngpiàn", "meaning": "Tarjeta de visita", "type": "noun", "level": "7" },
+  { "character": "啊", "pinyin": "à", "meaning": "Ah / Oh", "type": "other", "level": "7" },
+  { "character": "教授", "pinyin": "jiàoshòu", "meaning": "Profesor universitario", "type": "noun", "level": "7" },
+  { "character": "教", "pinyin": "jiào", "meaning": "Enseñar", "type": "noun", "level": "7" },
+
   { "character": "去", "pinyin": "qù", "meaning": "Ir", "type": "verb", "level": "6" },
   { "character": "怎么样", "pinyin": "zĕnmeyàng", "meaning": "¿Qué tal?", "type": "other", "level": "6" },
   { "character": "有意思", "pinyin": "yǒu yìsi", "meaning": "Interesante", "type": "adjective", "level": "6" },
