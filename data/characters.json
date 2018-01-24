@@ -8,7 +8,7 @@
   { "character": "名片", "pinyin": "míngpiàn", "meaning": "Tarjeta de visita", "type": "noun", "level": "7" },
   { "character": "啊", "pinyin": "à", "meaning": "Ah / Oh", "type": "other", "level": "7" },
   { "character": "教授", "pinyin": "jiàoshòu", "meaning": "Profesor universitario", "type": "noun", "level": "7" },
-  { "character": "教", "pinyin": "jiào", "meaning": "Enseñar", "type": "noun", "level": "7" },
+  { "character": "教", "pinyin": "jiào", "meaning": "Enseñar", "type": "verb", "level": "7" },
 
   { "character": "去", "pinyin": "qù", "meaning": "Ir", "type": "verb", "level": "6" },
   { "character": "怎么样", "pinyin": "zĕnmeyàng", "meaning": "¿Qué tal?", "type": "other", "level": "6" },
