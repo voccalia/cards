@@ -1,5 +1,15 @@
 [
 
+  { "character": "美国", "pinyin": "mĕiguó", "meaning": "Estados Unidos", "type": "noun", "level": "7" },  
+  { "character": "系", "pinyin": "xì", "meaning": "Facultad / Departamento", "type": "noun", "level": "7" },
+  { "character": "文学", "pinyin": "wénxué", "meaning": "Literatura", "type": "noun", "level": "7" },  
+  { "character": "美", "pinyin": "mĕi", "meaning": "Bello", "type": "adjective", "level": "7" },    
+  { "character": "美术", "pinyin": "mĕishù", "meaning": "Bellas artes", "type": "noun", "level": "7" },  
+  { "character": "专业", "pinyin": "zhuānyè", "meaning": "Carrera / Especialidad", "type": "noun", "level": "7" },  
+  { "character": "中文", "pinyin": "zhōngwén", "meaning": "Lengua china / Idioma chino", "type": "noun", "level": "7" },  
+  { "character": "名字", "pinyin": "míngzi", "meaning": "Nombre", "type": "noun", "level": "7" },  
+  { "character": "介绍", "pinyin": "jièshào", "meaning": "Presentar", "type": "verb", "level": "7" },  
+  { "character": "来", "pinyin": "Lái", "meaning": "Venir", "type": "verb", "level": "7" },  
   { "character": "开学", "pinyin": "kāixué", "meaning": "Empezar a estudiar", "type": "verb", "level": "7" },
   { "character": "开", "pinyin": "kāi", "meaning": "Empezar / Abrir", "type": "verb", "level": "7" }, 
   { "character": "高", "pinyin": "gāo", "meaning": "alto", "type": "adjective", "level": "7" },
