@@ -7,6 +7,7 @@ new Vue({
     data: {
         characters: [],
         search: '',
+        filterLevel: '',
     },
     methods: {
         getCharacters: function() {
@@ -17,7 +18,14 @@ new Vue({
     },
     computed: {
         filterCharacters: function() {
-            return this.characters.filter((character) => character.meaning.toLowerCase().includes(this.search))
+            return this.characters.filter((character) => {
+                // Using normalize based on https://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript
+                return  character.meaning.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").match(this.search) 
+                        || character.pinyin.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").match(this.search)
+                        || character.hanzi.match(this.search)
+            });
         }
+
     }
+
 });

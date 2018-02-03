@@ -17,7 +17,18 @@
                 <span class="logo-slogan">Chinese Cards</span>
             </div>
             <div class="filters">
-                <input class="search-input" v-model="search" type="text" placeholder="Buscar tarjetas"  />
+                <input v-model="search" class="search-input" type="text" placeholder="Buscar tarjetas"  />
+                <!-- <select v-model="filterLevel" class="filter-level">
+                    <option value="">All levels</option>
+                    <option value="1">Level 1</option>
+                    <option value="2">Level 2</option>
+                    <option value="3">Level 3</option>
+                    <option value="4">Level 4</option>                
+                    <option value="5">Level 5</option>
+                    <option value="6">Level 6</option>  
+                    <option value="7">Level 7</option>                
+                    <option value="7b">Level 7b</option>
+                </select> -->
                 <select style="display:none;">
                     <option value="all">Todos</option>
                     <option value="pronouns">Pronombres</option>
@@ -39,10 +50,10 @@
             <div v-for="character in filterCharacters" class="card">            
                 <div class="card-content" onclick="this.classList.toggle('flip');">
                     <figure class="front">
-                        <h2 v-cloak>{{ character.character }}</h2>                        
+                        <h2 v-cloak>{{ character.hanzi }}</h2>                        
                     </figure> 
                     <figure class="back">
-                        <h2>{{ character.character }}</h2>
+                        <h2>{{ character.hanzi }}</h2>
                         <h3>{{ character.pinyin }}</h3>
                         <p>{{ character.meaning }}</p>
                     </figure>       
