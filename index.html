@@ -17,6 +17,7 @@
                 <span class="logo-slogan">Chinese Cards</span>
             </div>
             <div class="filters">
+                <span class="cards-lenght" v-cloak>{{ characters.length }} cards</span>
                 <input v-model="search" class="search-input" type="text" placeholder="Buscar tarjetas" autocapitalize="none" />
                 <!-- <select v-model="filterLevel" class="filter-level">
                     <option value="">All levels</option>

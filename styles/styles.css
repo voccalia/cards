@@ -67,6 +67,10 @@ main {
  }
 
  @media (max-width: 600px) {
+    .logo {
+        margin-left: 10px;
+    }
+
     .logo-text {
         margin-bottom: 0;
         font-family: 'Nixie One', cursive;
@@ -84,6 +88,9 @@ main {
         margin-top: 2px;
         text-transform: uppercase;
         display: block;
+    }
+    .app-header-content {
+        padding: 0 10px;
     }
 }
  
@@ -109,7 +116,7 @@ main {
     background: rgba(0, 0, 0, 0.1);    
     color: rgba(255, 255, 255, 1);
     outline: 0px;
-    width: auto;
+    width: 200px;
     transition: all .2s ease;
     font-size: 11px;
     letter-spacing: 1px;
@@ -122,10 +129,29 @@ main {
    transition: all .2s ease;
 }
 
+::-moz-placeholder { 
+    color: rgba(255, 255, 255, 0.4);
+}
+
+::-webkit-input-placeholder {
+    color: rgba(255, 255, 255, 0.3);
+}
+
+
 @media (max-width: 600px) {
     .search-input {
-        width: 150px;
+        width: 120px;
      }
+}
+
+/* CARDS */
+
+.cards-lenght {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 11px;
+    margin-right: 5px;
+    text-transform: uppercase;
+    font-family: 'Nixie One', cursive;
 }
 
 /* Flipcard based on https://desandro.github.io/3dtransforms/docs/card-flip.html */
