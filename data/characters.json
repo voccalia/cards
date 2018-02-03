@@ -20,6 +20,18 @@
   { "character": "教授", "pinyin": "jiàoshòu", "meaning": "Profesor universitario", "type": "noun", "level": "7" },
   { "character": "教", "pinyin": "jiào", "meaning": "Enseñar", "type": "verb", "level": "7" },
 
+  { "character": "文化", "pinyin": "wénhuà", "meaning": "Cultura", "type": "noun", "level": "7b" },  
+  { "character": "历史", "pinyin": "lìshǐ", "meaning": "Historia", "type": "noun", "level": "7b" },  
+  { "character": "哲学", "pinyin": "zhéxué", "meaning": "Filosofía", "type": "noun", "level": "7b" },  
+  { "character": "音乐", "pinyin": "yīnyuè", "meaning": "Música", "type": "noun", "level": "7b" },  
+  { "character": "经济", "pinyin": "jīngjì", "meaning": "Economía", "type": "noun", "level": "7b" },  
+  { "character": "数学", "pinyin": "shùxué", "meaning": "Matemáticas", "type": "noun", "level": "7b" },  
+  { "character": "物理", "pinyin": "wùlǐ", "meaning": "Física", "type": "noun", "level": "7b" },  
+  { "character": "化学", "pinyin": "huàxué", "meaning": "Química", "type": "noun", "level": "7b" },  
+  { "character": "教育", "pinyin": "jiàoyù", "meaning": "Educación", "type": "noun", "level": "7b" },  
+  { "character": "选修", "pinyin": "xuǎnxiū", "meaning": "Elegir una materia optativa", "type": "noun", "level": "7b" },  
+
+
   { "character": "去", "pinyin": "qù", "meaning": "Ir", "type": "verb", "level": "6" },
   { "character": "怎么样", "pinyin": "zĕnmeyàng", "meaning": "¿Qué tal?", "type": "other", "level": "6" },
   { "character": "有意思", "pinyin": "yǒu yìsi", "meaning": "Interesante", "type": "adjective", "level": "6" },
