@@ -81,13 +81,7 @@ main {
     }
     
     .logo-slogan {
-        font-family: 'Nixie One', cursive;
-        color: rgba(255, 255, 255, 0.45);
-        letter-spacing: 3px;
-        font-size: 5px;
-        margin-top: 2px;
-        text-transform: uppercase;
-        display: block;
+        display: none;
     }
     .app-header-content {
         padding: 0 10px;
@@ -130,17 +124,17 @@ main {
 }
 
 ::-moz-placeholder { 
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.6);
 }
 
 ::-webkit-input-placeholder {
-    color: rgba(255, 255, 255, 0.3);
+    color: rgba(255, 255, 255, 0.5);
 }
 
 
 @media (max-width: 600px) {
     .search-input {
-        width: 120px;
+        width: 150px;
      }
 }
 
