@@ -19,6 +19,8 @@
   { "hanzi": "啊", "pinyin": "à", "meaning": "Ah / Oh", "type": "other", "level": "7" },
   { "hanzi": "教授", "pinyin": "jiàoshòu", "meaning": "Profesor universitario", "type": "noun", "level": "7" },
   { "hanzi": "教", "pinyin": "jiào", "meaning": "Enseñar", "type": "verb", "level": "7" },
+  { "hanzi": "学", "pinyin": "xué", "meaning": "Aprender / Estudiar", "type": "verb", "level": "7" },
+
 
   { "hanzi": "文化", "pinyin": "wénhuà", "meaning": "Cultura", "type": "noun", "level": "7b" },  
   { "hanzi": "历史", "pinyin": "lìshǐ", "meaning": "Historia", "type": "noun", "level": "7b" },  
@@ -202,7 +204,7 @@
   { "hanzi": "法语", "pinyin": "fǎyǔ", "meaning": "Francés (idioma)", "type": "noun" },  
   { "hanzi": "西班牙", "pinyin": "Xībānyá", "meaning": "España", "type": "noun" },  
   { "hanzi": "西班牙人", "pinyin": "xībānyá rén", "meaning": "Español (gentilicio)", "type": "noun" },  
-  { "hanzi": "西班牙语", "pinyin": "xībānyá yǔ", "meaning": "Español (idioma)", "type": "noun" },    
+  { "hanzi": "西班牙语", "pinyin": "xībānyá yǔ", "meaning": "Español (idioma)", "type": "noun" },
   
 
   { "hanzi": "咖啡", "pinyin": "kāfēi", "meaning": "Café", "type": "noun", "level": "2" },
