@@ -1,4 +1,18 @@
 [
+  { "hanzi": "家", "pinyin": "jiā", "meaning": "Hogar / Familia", "type": "noun", "level": "8" },
+  { "hanzi": "几", "pinyin": "jǐ", "meaning": "Cuántos", "type": "noun", "level": "8" },
+  { "hanzi": "照片", "pinyin": "zhàopiàn", "meaning": "Fotografía", "type": "noun", "level": "8" },
+  { "hanzi": "和", "pinyin": "hé", "meaning": "y (conector)", "type": "other", "level": "8" },
+  { "hanzi": "口", "pinyin": "kǒu", "meaning": "(Clasificador para referirse al número de miembros de la familia)", "type": "classifier", "level": "8" },  
+  { "hanzi": "个", "pinyin": "gè", "meaning": "(Clasificador de uso general)", "type": "classifier", "level": "8" },
+  { "hanzi": "张", "pinyin": "zhāng", "meaning": "(Clasificador para objetos planos)", "type": "classifier", "level": "8" },
+  { "hanzi": "当然", "pinyin": "dāngrán", "meaning": "Como debe ser / Es normal que", "type": "adjective", "level": "8" },
+
+  { "hanzi": "两", "pinyin": "liăng", "meaning": "Dos / 2", "type": "number", "level": "8" },  
+  { "hanzi": "还", "pinyin": "hái", "meaning": "Además / Todavía", "type": "adverb", "level": "8" },  
+  { "hanzi": "一共", "pinyin": "yígòng", "meaning": "En total", "type": "adverb", "level": "8" },  
+  { "hanzi": "小", "pinyin": "xiǎo", "meaning": "Pequeño", "type": "adjective", "level": "8" },  
+  { "hanzi": "狗", "pinyin": "gǒu", "meaning": "Perro", "type": "noun", "level": "8" },  
 
   { "hanzi": "美国", "pinyin": "mĕiguó", "meaning": "Estados Unidos", "type": "noun", "level": "7" },  
   { "hanzi": "系", "pinyin": "xì", "meaning": "Facultad / Departamento", "type": "noun", "level": "7" },
@@ -21,7 +35,7 @@
   { "hanzi": "教", "pinyin": "jiào", "meaning": "Enseñar", "type": "verb", "level": "7" },
   { "hanzi": "学", "pinyin": "xué", "meaning": "Aprender / Estudiar", "type": "verb", "level": "7" },
 
-
+  { "hanzi": "选修", "pinyin": "xuǎnxiū", "meaning": "Elegir una materia optativa", "type": "noun", "level": "7b" },
   { "hanzi": "文化", "pinyin": "wénhuà", "meaning": "Cultura", "type": "noun", "level": "7b" },  
   { "hanzi": "历史", "pinyin": "lìshǐ", "meaning": "Historia", "type": "noun", "level": "7b" },  
   { "hanzi": "哲学", "pinyin": "zhéxué", "meaning": "Filosofía", "type": "noun", "level": "7b" },  
@@ -31,7 +45,6 @@
   { "hanzi": "物理", "pinyin": "wùlǐ", "meaning": "Física", "type": "noun", "level": "7b" },  
   { "hanzi": "化学", "pinyin": "huàxué", "meaning": "Química", "type": "noun", "level": "7b" },  
   { "hanzi": "教育", "pinyin": "jiàoyù", "meaning": "Educación", "type": "noun", "level": "7b" },  
-  { "hanzi": "选修", "pinyin": "xuǎnxiū", "meaning": "Elegir una materia optativa", "type": "noun", "level": "7b" },  
 
 
   { "hanzi": "去", "pinyin": "qù", "meaning": "Ir", "type": "verb", "level": "6" },
@@ -159,9 +172,9 @@
   { "hanzi": "爸爸", "pinyin": "bàba", "meaning": "Papá", "type": "noun", "level": "2" },
   { "hanzi": "妈妈", "pinyin": "māma", "meaning": "Mamá", "type": "noun", "level": "2" },
   { "hanzi": "哥哥", "pinyin": "gēge", "meaning": "Hermano mayor", "type": "noun", "level": "2" },
-  { "hanzi": "姐姐", "pinyin": "jiĕjie", "meaning": "Hermana mayor", "type": "noun" },
+  { "hanzi": "姐姐", "pinyin": "jiĕjie", "meaning": "Hermana mayor", "type": "noun", "level": "8" },
   { "hanzi": "弟弟", "pinyin": "dìdi", "meaning": "Hermano menor", "type": "noun", "level": "2" },
-  { "hanzi": "妹妹", "pinyin": "mèimei", "meaning": "Hermana menor", "type": "noun" },
+  { "hanzi": "妹妹", "pinyin": "mèimei", "meaning": "Hermana menor", "type": "noun", "level": "8"  },
   { "hanzi": "爷爷", "pinyin": "yéye", "meaning": "Abuelo paterno", "type": "noun" },
   { "hanzi": "奶奶", "pinyin": "nǎinai", "meaning": "Abuela paterna", "type": "noun", "level": "3" },
   { "hanzi": "外公", "pinyin": "wàigōng", "meaning": "Abuelo materno (sur)", "type": "noun" },
@@ -227,8 +240,6 @@
   { "hanzi": "九", "pinyin": "jiǔ", "meaning": "Nueve / 9", "type": "number" },  
   { "hanzi": "十", "pinyin": "shí", "meaning": "Diez / 10", "type": "number" },  
   { "hanzi": "〇", "pinyin": "líng", "meaning": "Cero / 0", "type": "number", "level": "5" },  
-  { "hanzi": "两", "pinyin": "liăng", "meaning": "Dos / 2", "type": "number" },  
-
 
   { "hanzi": "星期", "pinyin": "xīng qī", "meaning": "Semana", "type": "noun" },
   { "hanzi": "星期一", "pinyin": "xīng qī yī", "meaning": "Lunes", "type": "noun" },
@@ -256,7 +267,6 @@
   { "hanzi": "十二月", "pinyin": "shí èr yuè", "meaning": "Diciembre", "type": "noun" },
 
   { "hanzi": "书", "pinyin": "zhū", "meaning": "Libro", "type": "noun" },
-  { "hanzi": "和", "pinyin": "hé", "meaning": "y (conector)", "type": "other" },
   { "hanzi": "因为", "pinyin": "yīnwèi", "meaning": "Porque", "type": "other" },
   { "hanzi": "国际", "pinyin": "guójì", "meaning": "Internacional", "type": "noun" },
   { "hanzi": "颜色", "pinyin": "yánsè", "meaning": "Color", "type": "noun" },
