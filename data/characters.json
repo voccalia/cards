@@ -6,7 +6,12 @@
   { "hanzi": "口", "pinyin": "kǒu", "meaning": "(Clasificador para referirse al número de miembros de la familia)", "type": "classifier", "level": "8" },  
   { "hanzi": "个", "pinyin": "gè", "meaning": "(Clasificador de uso general)", "type": "classifier", "level": "8" },
   { "hanzi": "张", "pinyin": "zhāng", "meaning": "(Clasificador para objetos planos)", "type": "classifier", "level": "8" },
-  { "hanzi": "当然", "pinyin": "dāngrán", "meaning": "Como debe ser / Es normal que", "type": "adjective", "level": "8" },
+  { "hanzi": "当然", "pinyin": "dāngrán", "meaning": "Seguro (sure)", "type": "adjective", "level": "8" },
+  { "hanzi": "真", "pinyin": "zhēn", "meaning": "Realmente / Real", "type": "adjective", "level": "8" },
+  { "hanzi": "可爱", "pinyin": "kĕ'ài", "meaning": "Adorable / Agradable", "type": "adjective", "level": "8" },
+  { "hanzi": "爱", "pinyin": "ài", "meaning": "Amar", "type": "verb", "level": "8" },
+
+
 
   { "hanzi": "两", "pinyin": "liăng", "meaning": "Dos / 2", "type": "number", "level": "8" },  
   { "hanzi": "还", "pinyin": "hái", "meaning": "Además / Todavía", "type": "adverb", "level": "8" },  
