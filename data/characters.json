@@ -10,9 +10,9 @@
   { "hanzi": "真", "pinyin": "zhēn", "meaning": "Realmente / Real", "type": "adjective", "level": "8" },
   { "hanzi": "可爱", "pinyin": "kĕ'ài", "meaning": "Adorable / Agradable", "type": "adjective", "level": "8" },
   { "hanzi": "爱", "pinyin": "ài", "meaning": "Amar", "type": "verb", "level": "8" },
-
-
-
+  { "hanzi": "没", "pinyin": "méi", "meaning": "No", "type": "adverb", "level": "8" },
+  { "hanzi": "做", "pinyin": "zuò", "meaning": "Hacer", "type": "verb", "level": "8" },
+  { "hanzi": "工作", "pinyin": "gōngzuò", "meaning": "Trabajo / Trabajar", "type": "verb / noun", "level": "8" },
   { "hanzi": "两", "pinyin": "liăng", "meaning": "Dos / 2", "type": "number", "level": "8" },  
   { "hanzi": "还", "pinyin": "hái", "meaning": "Además / Todavía", "type": "adverb", "level": "8" },  
   { "hanzi": "一共", "pinyin": "yígòng", "meaning": "En total", "type": "adverb", "level": "8" },  
