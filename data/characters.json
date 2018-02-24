@@ -1,16 +1,5 @@
 [
 
-  { "hanzi": "大", "pinyin": "dà", "meaning": "Grande", "type": "adjective", "level": "8" },
-  { "hanzi": "多少", "pinyin": "duōshao", "meaning": "Cuántos", "type": "other", "level": "8" },
-  { "hanzi": "多", "pinyin": "duō", "meaning": "Mucho", "type": "adjective", "level": "8" },
-  { "hanzi": "少", "pinyin": "shǎo", "meaning": "Poco", "type": "adjective", "level": "8" },
-  { "hanzi": "喜欢", "pinyin": "xǐhuan", "meaning": "Gustar / Preferir", "type": "verb", "level": "8" },
-  { "hanzi": "外语", "pinyin": "wàiyŭ", "meaning": "Idioma extranjero", "type": "noun", "level": "8" },
-  { "hanzi": "外", "pinyin": "wài", "meaning": "Extranjero", "type": "noun", "level": "8" },
-  { "hanzi": "语", "pinyin": "yŭ", "meaning": "Lenguaje", "type": "noun", "level": "8" },
-  { "hanzi": "外国", "pinyin": "wàiguó", "meaning": "País extranjero", "type": "noun", "level": "8" },
-  { "hanzi": "百", "pinyin": "bǎi", "meaning": "Cien / 100", "type": "number", "level": "8" },
-
   { "hanzi": "家", "pinyin": "jiā", "meaning": "Hogar / Familia", "type": "noun", "level": "8" },
   { "hanzi": "几", "pinyin": "jǐ", "meaning": "Cuántos", "type": "noun", "level": "8" },
   { "hanzi": "照片", "pinyin": "zhàopiàn", "meaning": "Fotografía", "type": "noun", "level": "8" },
@@ -30,6 +19,17 @@
   { "hanzi": "一共", "pinyin": "yígòng", "meaning": "En total", "type": "adverb", "level": "8" },  
   { "hanzi": "小", "pinyin": "xiǎo", "meaning": "Pequeño", "type": "adjective", "level": "8" },  
   { "hanzi": "狗", "pinyin": "gǒu", "meaning": "Perro", "type": "noun", "level": "8" },
+
+  { "hanzi": "大", "pinyin": "dà", "meaning": "Grande", "type": "adjective", "level": "8" },
+  { "hanzi": "多少", "pinyin": "duōshao", "meaning": "Cuántos", "type": "other", "level": "8" },
+  { "hanzi": "多", "pinyin": "duō", "meaning": "Mucho", "type": "adjective", "level": "8" },
+  { "hanzi": "少", "pinyin": "shǎo", "meaning": "Poco", "type": "adjective", "level": "8" },
+  { "hanzi": "喜欢", "pinyin": "xǐhuan", "meaning": "Gustar / Preferir", "type": "verb", "level": "8" },
+  { "hanzi": "外语", "pinyin": "wàiyŭ", "meaning": "Idioma extranjero", "type": "noun", "level": "8" },
+  { "hanzi": "外", "pinyin": "wài", "meaning": "Extranjero", "type": "noun", "level": "8" },
+  { "hanzi": "语", "pinyin": "yŭ", "meaning": "Lenguaje", "type": "noun", "level": "8" },
+  { "hanzi": "外国", "pinyin": "wàiguó", "meaning": "País extranjero", "type": "noun", "level": "8" },
+  { "hanzi": "百", "pinyin": "bǎi", "meaning": "Cien / 100", "type": "number", "level": "8" },
  
 
   { "hanzi": "美国", "pinyin": "mĕiguó", "meaning": "Estados Unidos", "type": "noun", "level": "7" },  
