@@ -1,14 +1,5 @@
 [
 
-  { "hanzi": "车", "pinyin": "chē", "meaning": "Coche / Vehículo", "type": "noun", "level": "8b" },
-  { "hanzi": "词典", "pinyin": "cídiǎn", "meaning": "Diccionario", "type": "noun", "level": "8b" },
-  { "hanzi": "电脑", "pinyin": "diànnǎo", "meaning": "Computador / Ordenador", "type": "noun", "level": "8b" },
-  { "hanzi": "孩子", "pinyin": "háizi", "meaning": "Niño", "type": "noun", "level": "8b" },
-  { "hanzi": "爷爷", "pinyin": "yéye", "meaning": "Abuelo (paterno)", "type": "noun", "level": "8b" },
-  { "hanzi": "外公", "pinyin": "wàigōng", "meaning": "Abuelo (materno)", "type": "noun", "level": "8b" },
-  { "hanzi": "系主任", "pinyin": "xìzhŭrèn", "meaning": "Jefe de departamento", "type": "noun", "level": "8b" },
-
-
   { "hanzi": "家", "pinyin": "jiā", "meaning": "Hogar / Familia", "type": "noun", "level": "8" },
   { "hanzi": "几", "pinyin": "jǐ", "meaning": "Cuántos", "type": "noun", "level": "8" },
   { "hanzi": "照片", "pinyin": "zhàopiàn", "meaning": "Fotografía", "type": "noun", "level": "8" },
@@ -40,7 +31,16 @@
   { "hanzi": "外国", "pinyin": "wàiguó", "meaning": "País extranjero", "type": "noun", "level": "8" },
   { "hanzi": "百", "pinyin": "bǎi", "meaning": "Cien / 100", "type": "number", "level": "8" },
  
-
+  { "hanzi": "车", "pinyin": "chē", "meaning": "Coche / Vehículo", "type": "noun", "level": "8b" },
+  { "hanzi": "词典", "pinyin": "cídiǎn", "meaning": "Diccionario", "type": "noun", "level": "8b" },
+  { "hanzi": "电脑", "pinyin": "diànnǎo", "meaning": "Computador / Ordenador", "type": "noun", "level": "8b" },
+  { "hanzi": "孩子", "pinyin": "háizi", "meaning": "Niño", "type": "noun", "level": "8b" },
+  { "hanzi": "爷爷", "pinyin": "yéye", "meaning": "Abuelo (paterno)", "type": "noun", "level": "8b" },
+  { "hanzi": "外公", "pinyin": "wàigōng", "meaning": "Abuelo (materno)", "type": "noun", "level": "8b" },
+  { "hanzi": "系主任", "pinyin": "xìzhŭrèn", "meaning": "Jefe de departamento", "type": "noun", "level": "8b" },
+  { "hanzi": "助教", "pinyin": "zhùjiào", "meaning": "Ayudante de profesor", "type": "noun", "level": "8b" },
+  { "hanzi": "律师", "pinyin": "lǜshī", "meaning": "Abogado", "type": "noun", "level": "8b" },
+  { "hanzi": "工程师", "pinyin": "gōngchéngshī", "meaning": "Ingeniero", "type": "noun", "level": "8b" },
 
 
   { "hanzi": "美国", "pinyin": "mĕiguó", "meaning": "Estados Unidos", "type": "noun", "level": "7" },  
