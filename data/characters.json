@@ -1,5 +1,7 @@
 [
-
+  { "hanzi": "今年", "pinyin": "jīnnián", "meaning": "Este año", "type": "noun", "level": "9" },
+  { "hanzi": "年", "pinyin": "nián", "meaning": "Año (edad)", "type": "noun", "level": "9" },
+  
   { "hanzi": "家", "pinyin": "jiā", "meaning": "Hogar / Familia", "type": "noun", "level": "8" },
   { "hanzi": "几", "pinyin": "jǐ", "meaning": "Cuántos", "type": "noun", "level": "8" },
   { "hanzi": "照片", "pinyin": "zhàopiàn", "meaning": "Fotografía", "type": "noun", "level": "8" },
