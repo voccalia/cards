@@ -1,5 +1,19 @@
 [
 
+
+  { "hanzi": "参加", "pinyin": "cānjiā", "meaning": "Participar / Asistir", "type": "verb", "level": "9" },
+  { "hanzi": "吃", "pinyin": "chī", "meaning": "Comer", "type": "verb", "level": "9" },
+  { "hanzi": "蛋糕", "pinyin": "dàngāo", "meaning": "Pastel", "type": "noun", "level": "9" },
+  { "hanzi": "蛋", "pinyin": "dàn", "meaning": "Huevo", "type": "noun", "level": "9" },
+  { "hanzi": "糕", "pinyin": "gāo", "meaning": "Pastel", "type": "noun", "level": "9" },
+  { "hanzi": "买", "pinyin": "mǎi", "meaning": "Comprar", "type": "noun", "level": "9" },
+  { "hanzi": "瓶", "pinyin": "píng", "meaning": "Botella", "type": "clasifier", "level": "9" },
+  { "hanzi": "红葡萄酒", "pinyin": "hóngpútaojiŭ", "meaning": "Vino tinto", "type": "noun", "level": "9" },
+  { "hanzi": "红", "pinyin": "hóng", "meaning": "Rojo", "type": "noun", "level": "9" },
+  { "hanzi": "葡萄", "pinyin": "pútao", "meaning": "Uva", "type": "noun", "level": "9" },
+  { "hanzi": "酒", "pinyin": "jiŭ", "meaning": "Vino / licor", "type": "noun", "level": "9" },
+  { "hanzi": "北京", "pinyin": "Bĕijīng", "meaning": "Pekín", "type": "noun", "level": "9" },
+
   { "hanzi": "祝", "pinyin": "zhù", "meaning": "Desear / Felicitar", "type": "verb", "level": "9" },
   { "hanzi": "祝贺", "pinyin": "zhùhè", "meaning": "Felicitar", "type": "verb", "level": "9" },
   { "hanzi": "会", "pinyin": "huì", "meaning": "Reunión", "type": "noun", "level": "9" },
