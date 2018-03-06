@@ -21,7 +21,7 @@
                     <span v-if="filterCharacters.length === 1">{{ filterCharacters.length }} card</span>
                     <span v-else>{{ filterCharacters.length }} cards</span>
                 </span>
-                <input v-model="search" class="search-input" type="text" placeholder="Filtrar tarjetas" autocapitalize="none" />
+                <input class="search-input" v-model="search" type="text" placeholder="Filtrar tarjetas" autocapitalize="none" />
                 <select style="display:none;">
                     <option value="all">Todos</option>
                     <option value="pronouns">Pronombres</option>
@@ -40,7 +40,7 @@
 
     <main id="characters">
         <div class="cards">
-            <div v-for="character in filterCharacters" class="card">            
+            <div class="card" v-for="character in filterCharacters">            
                 <div class="card-content" onclick="this.classList.toggle('flip');">
                     <figure class="front">
                         <h2 v-cloak>{{ character.hanzi }}</h2> 
