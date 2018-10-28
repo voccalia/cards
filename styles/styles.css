@@ -93,10 +93,6 @@ main {
     text-align: center;
 }
 
-.cards {
-    text-align: center;
-}
-
 .filters {
     text-align: center;
     height: 30px;
@@ -139,6 +135,38 @@ main {
 }
 
 /* CARDS */
+
+.cards {
+    width: 1040px;
+    margin: 0 auto;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 4px;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+@media (max-width: 1080px) {
+    .cards {
+        width: 800px;
+        grid-template-columns: repeat(3, 1fr);  
+    }
+}
+
+@media (max-width: 800px) {
+    .cards {
+        width: 560px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 560px) {
+    .cards {
+        width: 300px;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
 
 .cards-lenght {
     color: rgba(255, 255, 255, 0.8);
