@@ -23,7 +23,7 @@ h1 {
 }
 
 main {
-    padding-top: 80px;
+    padding: 80px 16px;
 }
 
 .app-header {
@@ -136,38 +136,6 @@ main {
 
 /* CARDS */
 
-.cards {
-    width: 1040px;
-    margin: 0 auto;
-    text-align: center;
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 4px;
-    justify-content: center;
-    padding: 0 20px;
-}
-
-@media (max-width: 1080px) {
-    .cards {
-        width: 800px;
-        grid-template-columns: repeat(3, 1fr);  
-    }
-}
-
-@media (max-width: 800px) {
-    .cards {
-        width: 560px;
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-@media (max-width: 560px) {
-    .cards {
-        width: 300px;
-        grid-template-columns: repeat(1, 1fr);
-    }
-}
-
 .cards-lenght {
     color: rgba(255, 255, 255, 0.8);
     font-size: 11px;
@@ -176,16 +144,23 @@ main {
     font-family: 'Nixie One', cursive;
 }
 
+.cards {
+    margin: 0 auto;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(258px, 1fr));
+    grid-gap: 16px;
+}
+
 /* Flipcard based on https://desandro.github.io/3dtransforms/docs/card-flip.html */
 
 .card { 
-    width: 250px;
+    width: 100%;
     height: 300px;
     position: relative;
     perspective: 800px;
-    margin: 10px;
+    margin: 0 auto;
     text-align: center;
-    display: inline-block;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
@@ -249,7 +224,7 @@ main {
   }
 
     .card-content .front h2 {
-        font-size: 64px; 
+        font-size: 58px; 
         font-family: serif;
         margin: 0;
         margin-top: 90px;

@@ -9,6 +9,7 @@
     </head>
 <body>
 <div id="app">
+
     <header class="app-header">
         <section class="app-header-content">
             <div class="logo">
@@ -20,10 +21,23 @@
                     <span v-if="filterCharacters.length === 1">{{ filterCharacters.length }} card</span>
                     <span v-else>{{ filterCharacters.length }} cards</span>
                 </span>
-                <input class="search-input" v-model="search" type="text" placeholder="Filter cards" autocapitalize="none" />        
+                <input class="search-input" v-model="search" type="text" placeholder="Filter cards" autocapitalize="none" />
+                <select style="display:none;">
+                    <option value="all">Todos</option>
+                    <option value="pronouns">Pronombres</option>
+                    <option value="verbs">Verbos</option>
+                    <option value="family">Familia</option>
+                    <option value="people">Personas</option>                
+                    <option value="professions">Profesiones</option>
+                    <option value="countries">Países</option>  
+                    <option value="drinks">Bebidas</option>                
+                    <option value="adverbs">Adverbios</option>
+                    <option value="particles">Partículas</option> 
+                </select>          
             </div>
         </section>
     </header>
+
     <main id="characters">
         <div class="cards">
             <div class="card" v-for="character in filterCharacters">            
@@ -41,6 +55,7 @@
             </div>
         </div>
     </main>
+
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
