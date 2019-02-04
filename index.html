@@ -30,7 +30,7 @@
                 <div class="card-content" onclick="this.classList.toggle('flip');">
                     <figure class="front">
                         <h2 v-cloak>{{ character.hanzi }}</h2> 
-                        <h4 v-cloak v-if="character.level">Level {{ character.level }}</h4>                       
+                        <h4 style="display: none;" v-cloak v-if="character.level">Level {{ character.level }}</h4>                       
                     </figure> 
                     <figure class="back">
                         <h2>{{ character.hanzi }}</h2>
