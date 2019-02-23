@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nixie+One');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+SC:300');
 
 * {
     box-sizing: border-box;
@@ -49,21 +49,22 @@ main {
  
  .logo-text {
      margin-bottom: 0;
-     font-family: 'Nixie One', cursive;
+     font-family: 'Noto Serif SC', serif;
      letter-spacing: 2px;
-     font-size: 26px;
+     text-transform: uppercase;
+     font-size: 18px;
      margin-top: 0;
      margin-bottom: 0;
  }
  
  .logo-slogan {
-     font-family: 'Nixie One', cursive;
-     color: rgba(255, 255, 255, 0.45);
-     letter-spacing: 3px;
-     font-size: 8px;
-     margin-top: 2px;
-     text-transform: uppercase;
-     display: block;
+    font-family: 'Noto Serif SC', serif;
+    color: rgba(255, 255, 255, 0.45);
+    letter-spacing: 3px;
+    font-size: 8px;
+    margin-top: 0;
+    text-transform: uppercase;
+    display: block;
  }
 
  @media (max-width: 600px) {
@@ -73,9 +74,9 @@ main {
 
     .logo-text {
         margin-bottom: 0;
-        font-family: 'Nixie One', cursive;
+        font-family: 'Noto Serif SC', serif;
         letter-spacing: 2px;
-        font-size: 18px;
+        font-size: 14px;
         margin-top: 0;
         margin-bottom: 0;
     }
@@ -141,7 +142,7 @@ main {
     font-size: 11px;
     margin-right: 5px;
     text-transform: uppercase;
-    font-family: 'Nixie One', cursive;
+    font-family: 'Noto Serif SC', serif;
 }
 
 .cards {
@@ -229,8 +230,8 @@ main {
 
     .card-content .front h2 {
         font-size: 58px; 
-        font-family: serif;
-        font-weight: normal;
+        font-family: 'Noto Serif SC', serif;
+        font-weight: 300;
         color: white;
     }
 
@@ -250,9 +251,9 @@ main {
 
     .card-content .back h2 {
         font-size: 52px; 
-        font-family: serif;
+        font-family: 'Noto Serif SC', serif;
         margin: 0;
-        font-weight: normal;
+        font-weight: 300;
         color: black;        
     }
 
